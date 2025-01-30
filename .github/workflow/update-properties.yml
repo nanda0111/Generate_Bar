@@ -1,0 +1,35 @@
+name: Update Property File
+
+on:
+  push:
+    branches:
+      - main  # Trigger on every push to the main branch
+  workflow_dispatch:  # Allow manual triggering
+
+jobs:
+  update-properties:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Step 1: Checkout source code and property files from GitHub
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      # Step 2: Prepare Directories
+      - name: Prepare Directories
+        run: |
+          mkdir -p ./workspace
+          mkdir -p ./config
+      
+      # Step 3: Commit and Push the Updated Property File Back to GitHub
+      - name: Commit and Push Updated Property File
+        run: |
+          echo "Committing updated property file to the repository..."
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "nandakishoretherdelly@gmail.com"
+          git add ./config/override.properties
+          git commit -m "Updated override.properties file"
+          git push origin main
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+

@@ -1,0 +1,25 @@
+!SESSION 2025-01-30 01:10:33.081 -----------------------------------------------
+eclipse.buildId=4.15.0.I20200305-0155
+java.fullversion=8.0.6.36 - pxa6480sr6fp36-20210824_02(SR6 FP36)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20210824_12036 (JIT enabled, AOT enabled)
+OpenJ9   - 7bb9176
+OMR      - 820a5aa
+IBM      - dc8f23e
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -b  -a 
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -data ./workspace -b  -a 
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-01-30 01:10:37.020
+!MESSAGE Both 'com.ibm.etools.mft.fcb' and 'com.ibm.etools.mft.gef.emf' register a package for 'http://www.ibm.com/wbi/2005/eflow_utility'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-01-30 01:10:37.021
+!MESSAGE Both 'com.ibm.etools.mft.gef.emf' and 'com.ibm.etools.mft.gef.emf' register a package for 'http://www.ibm.com/wbi/2005/eflow_utility'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-01-30 01:10:37.021
+!MESSAGE Both 'com.ibm.etools.mft.fcb' and 'com.ibm.etools.mft.pattern.capture.annotation' register a package for 'http://www.ibm.com/patternAnnotation/2010'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-01-30 01:10:37.023
+!MESSAGE Both 'com.ibm.etools.mft.gef.emf' and 'org.eclipse.emf.ecore' register a package for 'http://www.eclipse.org/emf/2002/Ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-01-30 01:10:37.041
+!MESSAGE Both 'com.ibm.etools.javaee.core' and 'com.ibm.etools.mft.service.model' register an extension parser for 'application'

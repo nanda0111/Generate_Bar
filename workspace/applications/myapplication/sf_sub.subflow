@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubFlow xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="subFlow.xsd">
+    <SubFlowNode name="ComputeNode">
+        <NodeType>Compute</NodeType>
+        <NodeName>Compute_Stat</NodeName>
+        <ESQLFile>sf_sub_Compute.esql</ESQLFile>
+    </SubFlowNode>
+</SubFlow>
+

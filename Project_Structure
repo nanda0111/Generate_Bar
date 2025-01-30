@@ -1,0 +1,37 @@
+GitHub Repository (Generate_Bar_G/)
+
+📦 Generate_Bar_G/      	# GitHub Repository (Stores Source Code & Property File)
+│
+├── 📂 .github/          # GitHub Actions workflows
+│   ├── 📂 workflows/
+│   │   ├── update-properties.yml  # GitHub Actions workflow
+│
+├── 📂 workspace/        # IBM ACE workspace (source code stored here)
+│   ├── 📂 applications/  # IBM ACE applications
+│   │   ├── myApplication/
+│   │   │   ├── flow1.msgflow  
+│   │   │   ├── flow2.msgflow
+│   │   │   ├── ComputeNode.esql  
+│   │   │   ├── myApplication.application
+│   │   │   └── other files...
+│
+├── 📂 config/           # Property files for overriding configurations
+│   ├── override.properties  # Property file to be updated & pushed back to GitHub
+│
+├── .gitignore           # Ignore unnecessary files (logs, temp files, etc.)
+├── README.md            # Documentation for the project
+
+
+
+Local System (/Generate_Bar_L/)
+
+📦 /Generate_Bar_L/        # Local System (Stores Final BAR File)
+│
+├── 📂 file-bar/         # Final BAR file stored here
+│   ├── static_app-demo.bar
+│
+├── build.sh             # Local script to generate BAR file & update properties
+
+
+
+
