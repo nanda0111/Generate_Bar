@@ -1,0 +1,12 @@
+#!/bin/bash
+
+echo "Building BAR file..."
+
+# Override properties (adapt to your file format and needs)
+sed -i "s/old_property=value/new_property=value/" "$WORKSPACE_DIR/config/override.properties"  # Example sed command.
+
+# Run your BAR file creation command (adapt to your needs)
+/opt/ibm/ace/12.0.x.x/bin/mqsicreatebar -b "$BAR_FILE_DIR/$BAR_FILE_NAME" -w "$WORKSPACE_DIR" -a "YourApplicationName" -m add # Replace with your actual command
+
+
+echo "BAR file created: $BAR_FILE_DIR/$BAR_FILE_NAME"

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Broker deployBarfile="HTTP_Bhaskar.bar" deployTimestamp="2025-02-03 07:32:17">
+  <CompiledApplication>
+    <ConfigurableProperty uri="javaIsolation">
+    </ConfigurableProperty>
+    <ConfigurableProperty uri="startMode">
+    </ConfigurableProperty>
+  </CompiledApplication>
+  <CompiledMessageFlow name="HTTP_MF" deployBarfile="HTTP_Bhaskar.bar" deployTimestamp="2025-02-03 07:32:17">
+    <ConfigurableProperty uri="HTTP_MF#Compute.connectDatasourceBeforeFlowStarts">
+    </ConfigurableProperty>
+    <ConfigurableProperty uri="HTTP_MF#Compute.dataSource">
+    </ConfigurableProperty>
+    <ConfigurableProperty uri="HTTP_MF#Compute.validateMaster">
+    </ConfigurableProperty>
+    <ConfigurableProperty uri="HTTP_MF#HTTP Input.URLSpecifier" override="/httpin">
+    </ConfigurableProperty>
+    <ConfigurableProperty uri="HTTP_MF#HTTP Input.decompressInputMessage">
+    </ConfigurableProperty>
+    <ConfigurableProperty uri="HTTP_MF#HTTP Input.faultFormat">
+    </ConfigurableProperty>
+    <ConfigurableProperty uri="HTTP_MF#HTTP Input.securityProfileName">
+    </ConfigurableProperty>
+    <ConfigurableProperty uri="HTTP_MF#HTTP Input.timeoutForClient">
+    </ConfigurableProperty>
+    <ConfigurableProperty uri="HTTP_MF#HTTP Input.useHTTPS">
+    </ConfigurableProperty>
+    <ConfigurableProperty uri="HTTP_MF#HTTP Input.validateMaster">
+    </ConfigurableProperty>
+    <ConfigurableProperty uri="HTTP_MF#HTTP Reply.validateMaster">
+    </ConfigurableProperty>
+    <ConfigurableProperty uri="HTTP_MF#additionalInstances">
+    </ConfigurableProperty>
+    <ConfigurableProperty uri="HTTP_MF#commitCount">
+    </ConfigurableProperty>
+    <ConfigurableProperty uri="HTTP_MF#commitInterval">
+    </ConfigurableProperty>
+    <ConfigurableProperty uri="HTTP_MF#consumerPolicySet">
+    </ConfigurableProperty>
+    <ConfigurableProperty uri="HTTP_MF#consumerPolicySetBindings">
+    </ConfigurableProperty>
+    <ConfigurableProperty uri="HTTP_MF#coordinatedTransaction">
+    </ConfigurableProperty>
+    <ConfigurableProperty uri="HTTP_MF#maximumRateMsgsPerSec">
+    </ConfigurableProperty>
+    <ConfigurableProperty uri="HTTP_MF#monitoringProfile">
+    </ConfigurableProperty>
+    <ConfigurableProperty uri="HTTP_MF#notificationThresholdMsgsPerSec">
+    </ConfigurableProperty>
+    <ConfigurableProperty uri="HTTP_MF#processingTimeoutAction">
+    </ConfigurableProperty>
+    <ConfigurableProperty uri="HTTP_MF#processingTimeoutSec">
+    </ConfigurableProperty>
+    <ConfigurableProperty uri="HTTP_MF#providerPolicySet">
+    </ConfigurableProperty>
+    <ConfigurableProperty uri="HTTP_MF#providerPolicySetBindings">
+    </ConfigurableProperty>
+    <ConfigurableProperty uri="HTTP_MF#securityProfileName">
+    </ConfigurableProperty>
+    <ConfigurableProperty uri="HTTP_MF#startInstancesWhenFlowStarts">
+    </ConfigurableProperty>
+    <ConfigurableProperty uri="HTTP_MF#startMode">
+    </ConfigurableProperty>
+    <ConfigurableProperty uri="HTTP_MF#wlmPolicy">
+    </ConfigurableProperty>
+  </CompiledMessageFlow>
+</Broker>
