@@ -1,0 +1,65 @@
+name: Update Properties and Build BAR File
+
+on:
+  push:
+    paths:
+      - 'config/override.properties'  # Runs when this file is updated
+  workflow_dispatch:  # Allows manual execution
+
+jobs:
+  update-properties-and-build:
+   uns-on: ubuntu-latest
+    container:
+      image: ibmcom/ace:12.0.10.0  # Use IBM ACE pre-installed Docker image
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Verify Property File Exists
+        run: |
+          if [ ! -f config/override.properties ]; then
+            echo "Error: override.properties file not found!"
+            exit 1
+          fi
+          echo "override.properties found. Proceeding with update."
+
+      - name: Override Property Values
+        run: |
+          echo "Updating property values..."
+          sed -i "s/old_property=value/new_property=value/" config/override.properties  # Modify this as needed
+
+      - name: Commit and Push Updated Properties
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "nandakishoretherdelly@gmail.com"
+          git add config/override.properties
+          git commit -m "Auto-updated override.properties"
+          git push origin main
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Install IBM ACE Toolkit
+        run: |
+          echo "Installing IBM ACE Toolkit..."
+          sudo apt-get update
+          sudo apt-get install -y ibm-ace  # Ensure correct package name
+
+      - name: Prepare Directories
+        run: |
+          mkdir -p ./bar-files
+
+      - name: Generate BAR File
+        run: |
+          echo "Building BAR file..."
+          /opt/ibm/ace/12.0.x.x/bin/mqsicreatebar -b "./bar-files/http_demo.bar" -w "./workspace" -a "YourApplicationName" -m add
+
+      - name: Debug BAR File
+        run: |
+          echo "Checking if BAR file was generated..."
+          ls -lh ./bar-files/
+
+      - name: Upload BAR File as Artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: Generated-BAR-File
+          path: ./bar-files/http_demo.bar
+
