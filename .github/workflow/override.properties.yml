@@ -8,9 +8,11 @@ on:
 
 jobs:
   update-properties-and-build:
-   uns-on: ubuntu-latest
+    runs-on: ubuntu-latest
     container:
       image: ibmcom/ace:12.0.10.0  # Use IBM ACE pre-installed Docker image
+
+    steps:
       - name: Checkout Repository
         uses: actions/checkout@v3
 
@@ -25,7 +27,7 @@ jobs:
       - name: Override Property Values
         run: |
           echo "Updating property values..."
-          sed -i "s/old_property=value/new_property=value/" config/override.properties  # Modify this as needed
+          sed -i "s/old_property=value/new_property=value/" config/override.properties  # Modify as needed
 
       - name: Commit and Push Updated Properties
         run: |
@@ -37,12 +39,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Install IBM ACE Toolkit
-        run: |
-          echo "Installing IBM ACE Toolkit..."
-          sudo apt-get update
-          sudo apt-get install -y ibm-ace  # Ensure correct package name
-
       - name: Prepare Directories
         run: |
           mkdir -p ./bar-files
@@ -50,7 +46,7 @@ jobs:
       - name: Generate BAR File
         run: |
           echo "Building BAR file..."
-          /opt/ibm/ace/12.0.x.x/bin/mqsicreatebar -b "./bar-files/http_demo.bar" -w "./workspace" -a "YourApplicationName" -m add
+          /opt/ibm/ace-12/bin/mqsicreatebar -b "./bar-files/http_demo.bar" -w "./workspace" -a "YourApplicationName" -m add
 
       - name: Debug BAR File
         run: |
@@ -62,4 +58,17 @@ jobs:
         with:
           name: Generated-BAR-File
           path: ./bar-files/http_demo.bar
+
+      - name: Trigger Workflow for Property Updates
+        run: |
+          echo "Triggering GitHub Actions workflow: update-properties.yml..."
+         # curl -X POST -H "Accept: application/vnd.github.v3+json" \
+         #      -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}"
+         #      https://api.github.com/repos/nanda0111/Generate_Bar/actions/workflows/update-properties.yml/dispatches \
+         #      -d '{"ref":"main"}'
+          curl -X POST \
+               -H "Accept: application/vnd.github.v3+json" \
+               -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" \
+               -d '{"ref":"main"}' \
+           "https://api.github.com/repos/nanda0111/Generate_Bar/actions/workflows/update-properties.yml/dispatches"
 
