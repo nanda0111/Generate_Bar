@@ -1,0 +1,1053 @@
+!SESSION 2025-02-04 07:46:20.594 -----------------------------------------------
+eclipse.buildId=4.15.0.I20200305-0155
+java.fullversion=8.0.6.36 - pxa6480sr6fp36-20210824_02(SR6 FP36)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20210824_12036 (JIT enabled, AOT enabled)
+OpenJ9   - 7bb9176
+OMR      - 820a5aa
+IBM      - dc8f23e
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -b /home/ace/Generate_Bar/bar-files/http_demo.bar -a feb3
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -data ./workspace/applications -b /home/ace/Generate_Bar/bar-files/http_demo.bar -a feb3
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-02-04 07:46:22.522
+!MESSAGE Both 'com.ibm.etools.mft.fcb' and 'com.ibm.etools.mft.gef.emf' register a package for 'http://www.ibm.com/wbi/2005/eflow_utility'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-02-04 07:46:22.522
+!MESSAGE Both 'com.ibm.etools.mft.gef.emf' and 'com.ibm.etools.mft.gef.emf' register a package for 'http://www.ibm.com/wbi/2005/eflow_utility'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-02-04 07:46:22.523
+!MESSAGE Both 'com.ibm.etools.mft.fcb' and 'com.ibm.etools.mft.pattern.capture.annotation' register a package for 'http://www.ibm.com/patternAnnotation/2010'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-02-04 07:46:22.524
+!MESSAGE Both 'com.ibm.etools.mft.gef.emf' and 'org.eclipse.emf.ecore' register a package for 'http://www.eclipse.org/emf/2002/Ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-02-04 07:46:22.529
+!MESSAGE Both 'com.ibm.etools.javaee.core' and 'com.ibm.etools.mft.service.model' register an extension parser for 'application'
+
+!ENTRY com.ibm.etools.mft.uri 0 0 2025-02-04 07:46:25.586
+!MESSAGE 
+
+!ENTRY org.eclipse.core.resources 2 10035 2025-02-04 07:46:46.438
+!MESSAGE The workspace will exit with unsaved changes in this session.
+!SESSION 2025-02-04 08:15:07.901 -----------------------------------------------
+eclipse.buildId=4.15.0.I20200305-0155
+java.fullversion=8.0.6.36 - pxa6480sr6fp36-20210824_02(SR6 FP36)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20210824_12036 (JIT enabled, AOT enabled)
+OpenJ9   - 7bb9176
+OMR      - 820a5aa
+IBM      - dc8f23e
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -b /home/ace/Generate_Bar/bar-files/http_demo.bar -a feb3
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -data ./workspace/applications -b /home/ace/Generate_Bar/bar-files/http_demo.bar -a feb3
+
+!ENTRY org.eclipse.core.resources 2 10035 2025-02-04 08:15:09.597
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-02-04 08:15:09.775
+!MESSAGE Both 'com.ibm.etools.mft.fcb' and 'com.ibm.etools.mft.gef.emf' register a package for 'http://www.ibm.com/wbi/2005/eflow_utility'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-02-04 08:15:09.775
+!MESSAGE Both 'com.ibm.etools.mft.gef.emf' and 'com.ibm.etools.mft.gef.emf' register a package for 'http://www.ibm.com/wbi/2005/eflow_utility'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-02-04 08:15:09.776
+!MESSAGE Both 'com.ibm.etools.mft.fcb' and 'com.ibm.etools.mft.pattern.capture.annotation' register a package for 'http://www.ibm.com/patternAnnotation/2010'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-02-04 08:15:09.777
+!MESSAGE Both 'com.ibm.etools.mft.gef.emf' and 'org.eclipse.emf.ecore' register a package for 'http://www.eclipse.org/emf/2002/Ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-02-04 08:15:09.782
+!MESSAGE Both 'com.ibm.etools.javaee.core' and 'com.ibm.etools.mft.service.model' register an extension parser for 'application'
+
+!ENTRY com.ibm.etools.mft.uri 0 0 2025-02-04 08:15:13.018
+!MESSAGE 
+
+!ENTRY org.eclipse.core.resources 2 10035 2025-02-04 08:15:36.514
+!MESSAGE The workspace will exit with unsaved changes in this session.
+!SESSION 2025-02-04 08:23:05.356 -----------------------------------------------
+eclipse.buildId=4.15.0.I20200305-0155
+java.fullversion=8.0.6.36 - pxa6480sr6fp36-20210824_02(SR6 FP36)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20210824_12036 (JIT enabled, AOT enabled)
+OpenJ9   - 7bb9176
+OMR      - 820a5aa
+IBM      - dc8f23e
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -b /home/ace/Generate_Bar/bar-files/http_demo.bar -a feb3
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -data ./workspace/applications -b /home/ace/Generate_Bar/bar-files/http_demo.bar -a feb3
+
+!ENTRY org.eclipse.core.resources 2 10035 2025-02-04 08:23:07.130
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-02-04 08:23:07.319
+!MESSAGE Both 'com.ibm.etools.mft.fcb' and 'com.ibm.etools.mft.gef.emf' register a package for 'http://www.ibm.com/wbi/2005/eflow_utility'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-02-04 08:23:07.319
+!MESSAGE Both 'com.ibm.etools.mft.gef.emf' and 'com.ibm.etools.mft.gef.emf' register a package for 'http://www.ibm.com/wbi/2005/eflow_utility'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-02-04 08:23:07.319
+!MESSAGE Both 'com.ibm.etools.mft.fcb' and 'com.ibm.etools.mft.pattern.capture.annotation' register a package for 'http://www.ibm.com/patternAnnotation/2010'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-02-04 08:23:07.321
+!MESSAGE Both 'com.ibm.etools.mft.gef.emf' and 'org.eclipse.emf.ecore' register a package for 'http://www.eclipse.org/emf/2002/Ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-02-04 08:23:07.333
+!MESSAGE Both 'com.ibm.etools.javaee.core' and 'com.ibm.etools.mft.service.model' register an extension parser for 'application'
+
+!ENTRY com.ibm.etools.mft.uri 0 0 2025-02-04 08:23:09.622
+!MESSAGE 
+
+!ENTRY org.eclipse.core.resources 2 10035 2025-02-04 08:23:31.029
+!MESSAGE The workspace will exit with unsaved changes in this session.
+!SESSION 2025-02-04 08:28:48.995 -----------------------------------------------
+eclipse.buildId=4.15.0.I20200305-0155
+java.fullversion=8.0.6.36 - pxa6480sr6fp36-20210824_02(SR6 FP36)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20210824_12036 (JIT enabled, AOT enabled)
+OpenJ9   - 7bb9176
+OMR      - 820a5aa
+IBM      - dc8f23e
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -b /home/ace/Generate_Bar/bar-files/http_demo.bar -a feb3
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -data ./workspace/applications -b /home/ace/Generate_Bar/bar-files/http_demo.bar -a feb3
+
+!ENTRY org.eclipse.core.resources 2 10035 2025-02-04 08:28:50.695
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-02-04 08:28:50.879
+!MESSAGE Both 'com.ibm.etools.mft.fcb' and 'com.ibm.etools.mft.gef.emf' register a package for 'http://www.ibm.com/wbi/2005/eflow_utility'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-02-04 08:28:50.879
+!MESSAGE Both 'com.ibm.etools.mft.gef.emf' and 'com.ibm.etools.mft.gef.emf' register a package for 'http://www.ibm.com/wbi/2005/eflow_utility'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-02-04 08:28:50.879
+!MESSAGE Both 'com.ibm.etools.mft.fcb' and 'com.ibm.etools.mft.pattern.capture.annotation' register a package for 'http://www.ibm.com/patternAnnotation/2010'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-02-04 08:28:50.881
+!MESSAGE Both 'com.ibm.etools.mft.gef.emf' and 'org.eclipse.emf.ecore' register a package for 'http://www.eclipse.org/emf/2002/Ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-02-04 08:28:50.885
+!MESSAGE Both 'com.ibm.etools.javaee.core' and 'com.ibm.etools.mft.service.model' register an extension parser for 'application'
+
+!ENTRY com.ibm.etools.mft.uri 0 0 2025-02-04 08:28:54.135
+!MESSAGE 
+
+!ENTRY org.eclipse.core.resources 2 10035 2025-02-04 08:29:12.635
+!MESSAGE The workspace will exit with unsaved changes in this session.
+!SESSION 2025-02-04 08:32:18.213 -----------------------------------------------
+eclipse.buildId=4.15.0.I20200305-0155
+java.fullversion=8.0.6.36 - pxa6480sr6fp36-20210824_02(SR6 FP36)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20210824_12036 (JIT enabled, AOT enabled)
+OpenJ9   - 7bb9176
+OMR      - 820a5aa
+IBM      - dc8f23e
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -b /home/ace/Generate_Bar/bar-files/http_demo.bar -a feb3
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -data ./workspace/applications -b /home/ace/Generate_Bar/bar-files/http_demo.bar -a feb3
+
+!ENTRY org.eclipse.core.resources 2 10035 2025-02-04 08:32:20.127
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-02-04 08:32:20.304
+!MESSAGE Both 'com.ibm.etools.mft.fcb' and 'com.ibm.etools.mft.gef.emf' register a package for 'http://www.ibm.com/wbi/2005/eflow_utility'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-02-04 08:32:20.304
+!MESSAGE Both 'com.ibm.etools.mft.gef.emf' and 'com.ibm.etools.mft.gef.emf' register a package for 'http://www.ibm.com/wbi/2005/eflow_utility'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-02-04 08:32:20.304
+!MESSAGE Both 'com.ibm.etools.mft.fcb' and 'com.ibm.etools.mft.pattern.capture.annotation' register a package for 'http://www.ibm.com/patternAnnotation/2010'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-02-04 08:32:20.306
+!MESSAGE Both 'com.ibm.etools.mft.gef.emf' and 'org.eclipse.emf.ecore' register a package for 'http://www.eclipse.org/emf/2002/Ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-02-04 08:32:20.310
+!MESSAGE Both 'com.ibm.etools.javaee.core' and 'com.ibm.etools.mft.service.model' register an extension parser for 'application'
+
+!ENTRY com.ibm.etools.mft.uri 0 0 2025-02-04 08:32:23.368
+!MESSAGE 
+
+!ENTRY org.eclipse.core.resources 2 10035 2025-02-04 08:32:42.044
+!MESSAGE The workspace will exit with unsaved changes in this session.
+!SESSION 2025-02-04 23:33:21.114 -----------------------------------------------
+eclipse.buildId=4.15.0.I20200305-0155
+java.fullversion=8.0.6.36 - pxa6480sr6fp36-20210824_02(SR6 FP36)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20210824_12036 (JIT enabled, AOT enabled)
+OpenJ9   - 7bb9176
+OMR      - 820a5aa
+IBM      - dc8f23e
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -b /home/ace/Generate_Bar/bar-files/http_demo.bar -a feb3
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -data ./workspace/applications -b /home/ace/Generate_Bar/bar-files/http_demo.bar -a feb3
+
+!ENTRY org.eclipse.core.resources 2 10035 2025-02-04 23:33:22.785
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-02-04 23:33:22.978
+!MESSAGE Both 'com.ibm.etools.mft.fcb' and 'com.ibm.etools.mft.gef.emf' register a package for 'http://www.ibm.com/wbi/2005/eflow_utility'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-02-04 23:33:22.978
+!MESSAGE Both 'com.ibm.etools.mft.gef.emf' and 'com.ibm.etools.mft.gef.emf' register a package for 'http://www.ibm.com/wbi/2005/eflow_utility'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-02-04 23:33:22.978
+!MESSAGE Both 'com.ibm.etools.mft.fcb' and 'com.ibm.etools.mft.pattern.capture.annotation' register a package for 'http://www.ibm.com/patternAnnotation/2010'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-02-04 23:33:22.980
+!MESSAGE Both 'com.ibm.etools.mft.gef.emf' and 'org.eclipse.emf.ecore' register a package for 'http://www.eclipse.org/emf/2002/Ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-02-04 23:33:22.985
+!MESSAGE Both 'com.ibm.etools.javaee.core' and 'com.ibm.etools.mft.service.model' register an extension parser for 'application'
+
+!ENTRY com.ibm.etools.mft.uri 0 0 2025-02-04 23:33:25.217
+!MESSAGE 
+
+!ENTRY org.eclipse.core.resources 2 10035 2025-02-04 23:33:49.616
+!MESSAGE The workspace will exit with unsaved changes in this session.
+!SESSION 2025-02-04 23:37:50.296 -----------------------------------------------
+eclipse.buildId=4.15.0.I20200305-0155
+java.fullversion=8.0.6.36 - pxa6480sr6fp36-20210824_02(SR6 FP36)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20210824_12036 (JIT enabled, AOT enabled)
+OpenJ9   - 7bb9176
+OMR      - 820a5aa
+IBM      - dc8f23e
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -b /home/ace/Generate_Bar/bar-files/http_demo.bar -a feb3
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -data ./workspace/applications -b /home/ace/Generate_Bar/bar-files/http_demo.bar -a feb3
+
+!ENTRY org.eclipse.core.resources 2 10035 2025-02-04 23:37:51.998
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-02-04 23:37:52.190
+!MESSAGE Both 'com.ibm.etools.mft.fcb' and 'com.ibm.etools.mft.gef.emf' register a package for 'http://www.ibm.com/wbi/2005/eflow_utility'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-02-04 23:37:52.190
+!MESSAGE Both 'com.ibm.etools.mft.gef.emf' and 'com.ibm.etools.mft.gef.emf' register a package for 'http://www.ibm.com/wbi/2005/eflow_utility'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-02-04 23:37:52.191
+!MESSAGE Both 'com.ibm.etools.mft.fcb' and 'com.ibm.etools.mft.pattern.capture.annotation' register a package for 'http://www.ibm.com/patternAnnotation/2010'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-02-04 23:37:52.192
+!MESSAGE Both 'com.ibm.etools.mft.gef.emf' and 'org.eclipse.emf.ecore' register a package for 'http://www.eclipse.org/emf/2002/Ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-02-04 23:37:52.197
+!MESSAGE Both 'com.ibm.etools.javaee.core' and 'com.ibm.etools.mft.service.model' register an extension parser for 'application'
+
+!ENTRY com.ibm.etools.mft.uri 0 0 2025-02-04 23:37:54.436
+!MESSAGE 
+
+!ENTRY org.eclipse.core.resources 2 10035 2025-02-04 23:38:16.915
+!MESSAGE The workspace will exit with unsaved changes in this session.
+!SESSION 2025-02-04 23:45:11.785 -----------------------------------------------
+eclipse.buildId=4.15.0.I20200305-0155
+java.fullversion=8.0.6.36 - pxa6480sr6fp36-20210824_02(SR6 FP36)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20210824_12036 (JIT enabled, AOT enabled)
+OpenJ9   - 7bb9176
+OMR      - 820a5aa
+IBM      - dc8f23e
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -b /home/ace/Generate_Bar/bar-files/http_demo.bar -a feb3
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -data ./workspace/applications -b /home/ace/Generate_Bar/bar-files/http_demo.bar -a feb3
+
+!ENTRY org.eclipse.core.resources 2 10035 2025-02-04 23:45:13.453
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-02-04 23:45:13.652
+!MESSAGE Both 'com.ibm.etools.mft.fcb' and 'com.ibm.etools.mft.gef.emf' register a package for 'http://www.ibm.com/wbi/2005/eflow_utility'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-02-04 23:45:13.652
+!MESSAGE Both 'com.ibm.etools.mft.gef.emf' and 'com.ibm.etools.mft.gef.emf' register a package for 'http://www.ibm.com/wbi/2005/eflow_utility'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-02-04 23:45:13.652
+!MESSAGE Both 'com.ibm.etools.mft.fcb' and 'com.ibm.etools.mft.pattern.capture.annotation' register a package for 'http://www.ibm.com/patternAnnotation/2010'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-02-04 23:45:13.654
+!MESSAGE Both 'com.ibm.etools.mft.gef.emf' and 'org.eclipse.emf.ecore' register a package for 'http://www.eclipse.org/emf/2002/Ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-02-04 23:45:13.659
+!MESSAGE Both 'com.ibm.etools.javaee.core' and 'com.ibm.etools.mft.service.model' register an extension parser for 'application'
+
+!ENTRY com.ibm.etools.mft.uri 0 0 2025-02-04 23:45:16.128
+!MESSAGE 
+
+!ENTRY org.eclipse.core.resources 2 10035 2025-02-04 23:45:38.416
+!MESSAGE The workspace will exit with unsaved changes in this session.
+!SESSION 2025-02-04 23:52:47.980 -----------------------------------------------
+eclipse.buildId=4.15.0.I20200305-0155
+java.fullversion=8.0.6.36 - pxa6480sr6fp36-20210824_02(SR6 FP36)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20210824_12036 (JIT enabled, AOT enabled)
+OpenJ9   - 7bb9176
+OMR      - 820a5aa
+IBM      - dc8f23e
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -b /home/ace/Generate_Bar/bar-files/http_demo.bar -a feb3
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -data ./workspace/applications -b /home/ace/Generate_Bar/bar-files/http_demo.bar -a feb3
+
+!ENTRY org.eclipse.core.resources 2 10035 2025-02-04 23:52:49.640
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-02-04 23:52:49.822
+!MESSAGE Both 'com.ibm.etools.mft.fcb' and 'com.ibm.etools.mft.gef.emf' register a package for 'http://www.ibm.com/wbi/2005/eflow_utility'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-02-04 23:52:49.822
+!MESSAGE Both 'com.ibm.etools.mft.gef.emf' and 'com.ibm.etools.mft.gef.emf' register a package for 'http://www.ibm.com/wbi/2005/eflow_utility'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-02-04 23:52:49.823
+!MESSAGE Both 'com.ibm.etools.mft.fcb' and 'com.ibm.etools.mft.pattern.capture.annotation' register a package for 'http://www.ibm.com/patternAnnotation/2010'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-02-04 23:52:49.824
+!MESSAGE Both 'com.ibm.etools.mft.gef.emf' and 'org.eclipse.emf.ecore' register a package for 'http://www.eclipse.org/emf/2002/Ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-02-04 23:52:49.829
+!MESSAGE Both 'com.ibm.etools.javaee.core' and 'com.ibm.etools.mft.service.model' register an extension parser for 'application'
+
+!ENTRY com.ibm.etools.mft.uri 0 0 2025-02-04 23:52:52.880
+!MESSAGE 
+
+!ENTRY org.eclipse.core.resources 2 10035 2025-02-04 23:53:14.800
+!MESSAGE The workspace will exit with unsaved changes in this session.
+!SESSION 2025-02-05 00:12:27.219 -----------------------------------------------
+eclipse.buildId=4.15.0.I20200305-0155
+java.fullversion=8.0.6.36 - pxa6480sr6fp36-20210824_02(SR6 FP36)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20210824_12036 (JIT enabled, AOT enabled)
+OpenJ9   - 7bb9176
+OMR      - 820a5aa
+IBM      - dc8f23e
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -b /home/ace/Generate_Bar/bar-files/http_demo.bar -a feb3
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -data ./workspace/applications -b /home/ace/Generate_Bar/bar-files/http_demo.bar -a feb3
+
+!ENTRY org.eclipse.core.resources 2 10035 2025-02-05 00:12:28.912
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-02-05 00:12:29.082
+!MESSAGE Both 'com.ibm.etools.mft.fcb' and 'com.ibm.etools.mft.gef.emf' register a package for 'http://www.ibm.com/wbi/2005/eflow_utility'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-02-05 00:12:29.082
+!MESSAGE Both 'com.ibm.etools.mft.gef.emf' and 'com.ibm.etools.mft.gef.emf' register a package for 'http://www.ibm.com/wbi/2005/eflow_utility'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-02-05 00:12:29.082
+!MESSAGE Both 'com.ibm.etools.mft.fcb' and 'com.ibm.etools.mft.pattern.capture.annotation' register a package for 'http://www.ibm.com/patternAnnotation/2010'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-02-05 00:12:29.084
+!MESSAGE Both 'com.ibm.etools.mft.gef.emf' and 'org.eclipse.emf.ecore' register a package for 'http://www.eclipse.org/emf/2002/Ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-02-05 00:12:29.089
+!MESSAGE Both 'com.ibm.etools.javaee.core' and 'com.ibm.etools.mft.service.model' register an extension parser for 'application'
+
+!ENTRY com.ibm.etools.mft.uri 0 0 2025-02-05 00:12:32.104
+!MESSAGE 
+
+!ENTRY org.eclipse.core.resources 2 10035 2025-02-05 00:12:57.077
+!MESSAGE The workspace will exit with unsaved changes in this session.
+!SESSION 2025-02-05 00:15:05.616 -----------------------------------------------
+eclipse.buildId=4.15.0.I20200305-0155
+java.fullversion=8.0.6.36 - pxa6480sr6fp36-20210824_02(SR6 FP36)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20210824_12036 (JIT enabled, AOT enabled)
+OpenJ9   - 7bb9176
+OMR      - 820a5aa
+IBM      - dc8f23e
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -b /home/ace/Generate_Bar/bar-files/http_demo.bar -a feb3
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -data ./workspace/applications -b /home/ace/Generate_Bar/bar-files/http_demo.bar -a feb3
+
+!ENTRY org.eclipse.core.resources 2 10035 2025-02-05 00:15:07.336
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-02-05 00:15:07.512
+!MESSAGE Both 'com.ibm.etools.mft.fcb' and 'com.ibm.etools.mft.gef.emf' register a package for 'http://www.ibm.com/wbi/2005/eflow_utility'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-02-05 00:15:07.513
+!MESSAGE Both 'com.ibm.etools.mft.gef.emf' and 'com.ibm.etools.mft.gef.emf' register a package for 'http://www.ibm.com/wbi/2005/eflow_utility'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-02-05 00:15:07.513
+!MESSAGE Both 'com.ibm.etools.mft.fcb' and 'com.ibm.etools.mft.pattern.capture.annotation' register a package for 'http://www.ibm.com/patternAnnotation/2010'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-02-05 00:15:07.515
+!MESSAGE Both 'com.ibm.etools.mft.gef.emf' and 'org.eclipse.emf.ecore' register a package for 'http://www.eclipse.org/emf/2002/Ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-02-05 00:15:07.519
+!MESSAGE Both 'com.ibm.etools.javaee.core' and 'com.ibm.etools.mft.service.model' register an extension parser for 'application'
+
+!ENTRY com.ibm.etools.mft.uri 0 0 2025-02-05 00:15:10.588
+!MESSAGE 
+
+!ENTRY org.eclipse.core.resources 2 10035 2025-02-05 00:15:29.372
+!MESSAGE The workspace will exit with unsaved changes in this session.
+!SESSION 2025-02-05 00:20:56.675 -----------------------------------------------
+eclipse.buildId=4.15.0.I20200305-0155
+java.fullversion=8.0.6.36 - pxa6480sr6fp36-20210824_02(SR6 FP36)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20210824_12036 (JIT enabled, AOT enabled)
+OpenJ9   - 7bb9176
+OMR      - 820a5aa
+IBM      - dc8f23e
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -b /home/ace/Generate_Bar/bar-files/http_demo.bar -a feb3
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -data ./workspace/applications -b /home/ace/Generate_Bar/bar-files/http_demo.bar -a feb3
+
+!ENTRY org.eclipse.core.resources 2 10035 2025-02-05 00:20:58.367
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-02-05 00:20:58.545
+!MESSAGE Both 'com.ibm.etools.mft.fcb' and 'com.ibm.etools.mft.gef.emf' register a package for 'http://www.ibm.com/wbi/2005/eflow_utility'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-02-05 00:20:58.545
+!MESSAGE Both 'com.ibm.etools.mft.gef.emf' and 'com.ibm.etools.mft.gef.emf' register a package for 'http://www.ibm.com/wbi/2005/eflow_utility'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-02-05 00:20:58.546
+!MESSAGE Both 'com.ibm.etools.mft.fcb' and 'com.ibm.etools.mft.pattern.capture.annotation' register a package for 'http://www.ibm.com/patternAnnotation/2010'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-02-05 00:20:58.547
+!MESSAGE Both 'com.ibm.etools.mft.gef.emf' and 'org.eclipse.emf.ecore' register a package for 'http://www.eclipse.org/emf/2002/Ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-02-05 00:20:58.552
+!MESSAGE Both 'com.ibm.etools.javaee.core' and 'com.ibm.etools.mft.service.model' register an extension parser for 'application'
+
+!ENTRY com.ibm.etools.mft.uri 0 0 2025-02-05 00:21:01.975
+!MESSAGE 
+
+!ENTRY org.eclipse.core.resources 2 10035 2025-02-05 00:21:25.356
+!MESSAGE The workspace will exit with unsaved changes in this session.
+!SESSION 2025-02-05 00:45:25.430 -----------------------------------------------
+eclipse.buildId=4.15.0.I20200305-0155
+java.fullversion=8.0.6.36 - pxa6480sr6fp36-20210824_02(SR6 FP36)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20210824_12036 (JIT enabled, AOT enabled)
+OpenJ9   - 7bb9176
+OMR      - 820a5aa
+IBM      - dc8f23e
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -b /home/ace/Generate_Bar/bar-files/http_demo.bar -a feb3
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -data ./workspace/applications -b /home/ace/Generate_Bar/bar-files/http_demo.bar -a feb3
+
+!ENTRY org.eclipse.core.resources 2 10035 2025-02-05 00:45:27.125
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-02-05 00:45:27.292
+!MESSAGE Both 'com.ibm.etools.mft.fcb' and 'com.ibm.etools.mft.gef.emf' register a package for 'http://www.ibm.com/wbi/2005/eflow_utility'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-02-05 00:45:27.292
+!MESSAGE Both 'com.ibm.etools.mft.gef.emf' and 'com.ibm.etools.mft.gef.emf' register a package for 'http://www.ibm.com/wbi/2005/eflow_utility'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-02-05 00:45:27.292
+!MESSAGE Both 'com.ibm.etools.mft.fcb' and 'com.ibm.etools.mft.pattern.capture.annotation' register a package for 'http://www.ibm.com/patternAnnotation/2010'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-02-05 00:45:27.294
+!MESSAGE Both 'com.ibm.etools.mft.gef.emf' and 'org.eclipse.emf.ecore' register a package for 'http://www.eclipse.org/emf/2002/Ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-02-05 00:45:27.299
+!MESSAGE Both 'com.ibm.etools.javaee.core' and 'com.ibm.etools.mft.service.model' register an extension parser for 'application'
+
+!ENTRY com.ibm.etools.mft.uri 0 0 2025-02-05 00:45:30.481
+!MESSAGE 
+
+!ENTRY org.eclipse.core.resources 2 10035 2025-02-05 00:45:51.947
+!MESSAGE The workspace will exit with unsaved changes in this session.
+!SESSION 2025-02-05 04:12:18.523 -----------------------------------------------
+eclipse.buildId=4.15.0.I20200305-0155
+java.fullversion=8.0.6.36 - pxa6480sr6fp36-20210824_02(SR6 FP36)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20210824_12036 (JIT enabled, AOT enabled)
+OpenJ9   - 7bb9176
+OMR      - 820a5aa
+IBM      - dc8f23e
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -b /home/ace/Generate_Bar/bar-files/http_demo.bar -a feb3
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -data ./workspace/applications/ -b /home/ace/Generate_Bar/bar-files/http_demo.bar -a feb3
+
+!ENTRY org.eclipse.core.resources 2 10035 2025-02-05 04:12:20.247
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-02-05 04:12:20.432
+!MESSAGE Both 'com.ibm.etools.mft.fcb' and 'com.ibm.etools.mft.gef.emf' register a package for 'http://www.ibm.com/wbi/2005/eflow_utility'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-02-05 04:12:20.432
+!MESSAGE Both 'com.ibm.etools.mft.gef.emf' and 'com.ibm.etools.mft.gef.emf' register a package for 'http://www.ibm.com/wbi/2005/eflow_utility'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-02-05 04:12:20.433
+!MESSAGE Both 'com.ibm.etools.mft.fcb' and 'com.ibm.etools.mft.pattern.capture.annotation' register a package for 'http://www.ibm.com/patternAnnotation/2010'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-02-05 04:12:20.434
+!MESSAGE Both 'com.ibm.etools.mft.gef.emf' and 'org.eclipse.emf.ecore' register a package for 'http://www.eclipse.org/emf/2002/Ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-02-05 04:12:20.443
+!MESSAGE Both 'com.ibm.etools.javaee.core' and 'com.ibm.etools.mft.service.model' register an extension parser for 'application'
+
+!ENTRY com.ibm.etools.mft.uri 0 0 2025-02-05 04:12:23.549
+!MESSAGE 
+
+!ENTRY org.eclipse.core.resources 2 10035 2025-02-05 04:12:45.359
+!MESSAGE The workspace will exit with unsaved changes in this session.
+!SESSION 2025-02-05 04:31:05.126 -----------------------------------------------
+eclipse.buildId=4.15.0.I20200305-0155
+java.fullversion=8.0.6.36 - pxa6480sr6fp36-20210824_02(SR6 FP36)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20210824_12036 (JIT enabled, AOT enabled)
+OpenJ9   - 7bb9176
+OMR      - 820a5aa
+IBM      - dc8f23e
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -b /home/ace/Generate_Bar/bar-files/http_demo.bar -a feb3
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -data ./workspace/applications/ -b /home/ace/Generate_Bar/bar-files/http_demo.bar -a feb3
+
+!ENTRY org.eclipse.core.resources 2 10035 2025-02-05 04:31:06.862
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-02-05 04:31:07.052
+!MESSAGE Both 'com.ibm.etools.mft.fcb' and 'com.ibm.etools.mft.gef.emf' register a package for 'http://www.ibm.com/wbi/2005/eflow_utility'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-02-05 04:31:07.053
+!MESSAGE Both 'com.ibm.etools.mft.gef.emf' and 'com.ibm.etools.mft.gef.emf' register a package for 'http://www.ibm.com/wbi/2005/eflow_utility'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-02-05 04:31:07.053
+!MESSAGE Both 'com.ibm.etools.mft.fcb' and 'com.ibm.etools.mft.pattern.capture.annotation' register a package for 'http://www.ibm.com/patternAnnotation/2010'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-02-05 04:31:07.055
+!MESSAGE Both 'com.ibm.etools.mft.gef.emf' and 'org.eclipse.emf.ecore' register a package for 'http://www.eclipse.org/emf/2002/Ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-02-05 04:31:07.059
+!MESSAGE Both 'com.ibm.etools.javaee.core' and 'com.ibm.etools.mft.service.model' register an extension parser for 'application'
+
+!ENTRY com.ibm.etools.mft.uri 0 0 2025-02-05 04:31:10.245
+!MESSAGE 
+
+!ENTRY com.ibm.etools.references 4 10000 2025-02-05 04:31:28.325
+!MESSAGE Error executing taskcom.ibm.etools.references.internal.bplustree.db.FatalIOException: File /home/ace/Generate_Bar/workspace/applications/.metadata/.plugins/com.ibm.etools.references/refDB/artifact.db is closed
+!STACK 0
+com.ibm.etools.references.internal.bplustree.db.FatalIOException: File /home/ace/Generate_Bar/workspace/applications/.metadata/.plugins/com.ibm.etools.references/refDB/artifact.db is closed
+	at com.ibm.etools.references.internal.bplustree.db.ExtentManager.checkClosed(ExtentManager.java:917)
+	at com.ibm.etools.references.internal.bplustree.db.ExtentManager.resetStats(ExtentManager.java:2180)
+	at com.ibm.etools.references.internal.index.ReferenceDatabase.resetStats(ReferenceDatabase.java:1189)
+	at com.ibm.etools.references.internal.management.ReferenceProcessor.initLoop(ReferenceProcessor.java:1269)
+	at com.ibm.etools.references.internal.management.ReferenceProcessor.indexLoop(ReferenceProcessor.java:571)
+	at com.ibm.etools.references.internal.management.ReferenceProcessor.call(ReferenceProcessor.java:484)
+	at com.ibm.etools.references.internal.InternalReferencesJob$InternalRunner.runRunnable(InternalReferencesJob.java:271)
+	at com.ibm.etools.references.internal.InternalReferencesJob$InternalRunner.doRun(InternalReferencesJob.java:200)
+	at com.ibm.etools.references.internal.InternalReferencesJob$InternalRunner.run(InternalReferencesJob.java:154)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:522)
+	at com.ibm.etools.references.internal.ThreadSupport$ScheduledFutureTask$CallableWrapper.call(ThreadSupport.java:229)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:277)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1160)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:825)
+	at com.ibm.etools.references.internal.ReferenceThreadFactrory$ReferencesThread.run(ReferenceThreadFactrory.java:37)
+
+!ENTRY com.ibm.etools.references 4 0 2025-02-05 04:31:28.326
+!MESSAGE Link and References Indexing-0 [EXCEPTION] Exception during references job: 
+!STACK 0
+com.ibm.etools.references.internal.bplustree.db.FatalIOException: File /home/ace/Generate_Bar/workspace/applications/.metadata/.plugins/com.ibm.etools.references/refDB/artifact.db is closed
+	at com.ibm.etools.references.internal.bplustree.db.ExtentManager.checkClosed(ExtentManager.java:917)
+	at com.ibm.etools.references.internal.bplustree.db.ExtentManager.resetStats(ExtentManager.java:2180)
+	at com.ibm.etools.references.internal.index.ReferenceDatabase.resetStats(ReferenceDatabase.java:1189)
+	at com.ibm.etools.references.internal.management.ReferenceProcessor.initLoop(ReferenceProcessor.java:1269)
+	at com.ibm.etools.references.internal.management.ReferenceProcessor.indexLoop(ReferenceProcessor.java:571)
+	at com.ibm.etools.references.internal.management.ReferenceProcessor.call(ReferenceProcessor.java:484)
+	at com.ibm.etools.references.internal.InternalReferencesJob$InternalRunner.runRunnable(InternalReferencesJob.java:271)
+	at com.ibm.etools.references.internal.InternalReferencesJob$InternalRunner.doRun(InternalReferencesJob.java:200)
+	at com.ibm.etools.references.internal.InternalReferencesJob$InternalRunner.run(InternalReferencesJob.java:154)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:522)
+	at com.ibm.etools.references.internal.ThreadSupport$ScheduledFutureTask$CallableWrapper.call(ThreadSupport.java:229)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:277)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1160)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:825)
+	at com.ibm.etools.references.internal.ReferenceThreadFactrory$ReferencesThread.run(ReferenceThreadFactrory.java:37)
+
+!ENTRY org.eclipse.core.resources 2 10035 2025-02-05 04:31:28.865
+!MESSAGE The workspace will exit with unsaved changes in this session.
+!SESSION 2025-02-05 04:31:59.807 -----------------------------------------------
+eclipse.buildId=4.15.0.I20200305-0155
+java.fullversion=8.0.6.36 - pxa6480sr6fp36-20210824_02(SR6 FP36)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20210824_12036 (JIT enabled, AOT enabled)
+OpenJ9   - 7bb9176
+OMR      - 820a5aa
+IBM      - dc8f23e
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -b /home/ace/Generate_Bar/bar-files/http_demo.bar -a feb3
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -data ./workspace/applications/ -b /home/ace/Generate_Bar/bar-files/http_demo.bar -a feb3
+
+!ENTRY org.eclipse.core.resources 2 10035 2025-02-05 04:32:01.533
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-02-05 04:32:01.716
+!MESSAGE Both 'com.ibm.etools.mft.fcb' and 'com.ibm.etools.mft.gef.emf' register a package for 'http://www.ibm.com/wbi/2005/eflow_utility'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-02-05 04:32:01.725
+!MESSAGE Both 'com.ibm.etools.mft.gef.emf' and 'com.ibm.etools.mft.gef.emf' register a package for 'http://www.ibm.com/wbi/2005/eflow_utility'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-02-05 04:32:01.725
+!MESSAGE Both 'com.ibm.etools.mft.fcb' and 'com.ibm.etools.mft.pattern.capture.annotation' register a package for 'http://www.ibm.com/patternAnnotation/2010'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-02-05 04:32:01.727
+!MESSAGE Both 'com.ibm.etools.mft.gef.emf' and 'org.eclipse.emf.ecore' register a package for 'http://www.eclipse.org/emf/2002/Ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-02-05 04:32:01.732
+!MESSAGE Both 'com.ibm.etools.javaee.core' and 'com.ibm.etools.mft.service.model' register an extension parser for 'application'
+
+!ENTRY com.ibm.etools.mft.uri 0 0 2025-02-05 04:32:04.723
+!MESSAGE 
+
+!ENTRY org.eclipse.core.resources 2 10035 2025-02-05 04:32:28.373
+!MESSAGE The workspace will exit with unsaved changes in this session.
+!SESSION 2025-02-05 04:36:45.433 -----------------------------------------------
+eclipse.buildId=4.15.0.I20200305-0155
+java.fullversion=8.0.6.36 - pxa6480sr6fp36-20210824_02(SR6 FP36)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20210824_12036 (JIT enabled, AOT enabled)
+OpenJ9   - 7bb9176
+OMR      - 820a5aa
+IBM      - dc8f23e
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -b /home/ace/Generate_Bar/bar-files/http_demo.bar -a feb3
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -data ./workspace/applications/ -b /home/ace/Generate_Bar/bar-files/http_demo.bar -a feb3
+
+!ENTRY org.eclipse.core.resources 2 10035 2025-02-05 04:36:47.175
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-02-05 04:36:47.364
+!MESSAGE Both 'com.ibm.etools.mft.fcb' and 'com.ibm.etools.mft.gef.emf' register a package for 'http://www.ibm.com/wbi/2005/eflow_utility'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-02-05 04:36:47.364
+!MESSAGE Both 'com.ibm.etools.mft.gef.emf' and 'com.ibm.etools.mft.gef.emf' register a package for 'http://www.ibm.com/wbi/2005/eflow_utility'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-02-05 04:36:47.365
+!MESSAGE Both 'com.ibm.etools.mft.fcb' and 'com.ibm.etools.mft.pattern.capture.annotation' register a package for 'http://www.ibm.com/patternAnnotation/2010'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-02-05 04:36:47.369
+!MESSAGE Both 'com.ibm.etools.mft.gef.emf' and 'org.eclipse.emf.ecore' register a package for 'http://www.eclipse.org/emf/2002/Ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-02-05 04:36:47.374
+!MESSAGE Both 'com.ibm.etools.javaee.core' and 'com.ibm.etools.mft.service.model' register an extension parser for 'application'
+
+!ENTRY com.ibm.etools.mft.uri 0 0 2025-02-05 04:36:50.405
+!MESSAGE 
+
+!ENTRY org.eclipse.core.resources 2 10035 2025-02-05 04:37:12.097
+!MESSAGE The workspace will exit with unsaved changes in this session.
+!SESSION 2025-02-05 04:53:29.059 -----------------------------------------------
+eclipse.buildId=4.15.0.I20200305-0155
+java.fullversion=8.0.6.36 - pxa6480sr6fp36-20210824_02(SR6 FP36)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20210824_12036 (JIT enabled, AOT enabled)
+OpenJ9   - 7bb9176
+OMR      - 820a5aa
+IBM      - dc8f23e
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -b /home/ace/Generate_Bar/bar-files/http_demo.bar -a feb3
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -data ./workspace/applications/ -b /home/ace/Generate_Bar/bar-files/http_demo.bar -a feb3
+
+!ENTRY org.eclipse.core.resources 2 10035 2025-02-05 04:53:30.774
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-02-05 04:53:30.966
+!MESSAGE Both 'com.ibm.etools.mft.fcb' and 'com.ibm.etools.mft.gef.emf' register a package for 'http://www.ibm.com/wbi/2005/eflow_utility'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-02-05 04:53:30.966
+!MESSAGE Both 'com.ibm.etools.mft.gef.emf' and 'com.ibm.etools.mft.gef.emf' register a package for 'http://www.ibm.com/wbi/2005/eflow_utility'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-02-05 04:53:30.967
+!MESSAGE Both 'com.ibm.etools.mft.fcb' and 'com.ibm.etools.mft.pattern.capture.annotation' register a package for 'http://www.ibm.com/patternAnnotation/2010'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-02-05 04:53:30.968
+!MESSAGE Both 'com.ibm.etools.mft.gef.emf' and 'org.eclipse.emf.ecore' register a package for 'http://www.eclipse.org/emf/2002/Ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-02-05 04:53:30.980
+!MESSAGE Both 'com.ibm.etools.javaee.core' and 'com.ibm.etools.mft.service.model' register an extension parser for 'application'
+
+!ENTRY com.ibm.etools.mft.uri 0 0 2025-02-05 04:53:34.085
+!MESSAGE 
+
+!ENTRY org.eclipse.core.resources 2 10035 2025-02-05 04:53:55.808
+!MESSAGE The workspace will exit with unsaved changes in this session.
+!SESSION 2025-02-05 05:17:12.729 -----------------------------------------------
+eclipse.buildId=4.15.0.I20200305-0155
+java.fullversion=8.0.6.36 - pxa6480sr6fp36-20210824_02(SR6 FP36)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20210824_12036 (JIT enabled, AOT enabled)
+OpenJ9   - 7bb9176
+OMR      - 820a5aa
+IBM      - dc8f23e
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -b /home/ace/Generate_Bar/bar-files/http_demo.bar -a feb3
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -data ./workspace/applications/ -b /home/ace/Generate_Bar/bar-files/http_demo.bar -a feb3
+
+!ENTRY org.eclipse.core.resources 2 10035 2025-02-05 05:17:14.432
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-02-05 05:17:14.607
+!MESSAGE Both 'com.ibm.etools.mft.fcb' and 'com.ibm.etools.mft.gef.emf' register a package for 'http://www.ibm.com/wbi/2005/eflow_utility'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-02-05 05:17:14.607
+!MESSAGE Both 'com.ibm.etools.mft.gef.emf' and 'com.ibm.etools.mft.gef.emf' register a package for 'http://www.ibm.com/wbi/2005/eflow_utility'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-02-05 05:17:14.607
+!MESSAGE Both 'com.ibm.etools.mft.fcb' and 'com.ibm.etools.mft.pattern.capture.annotation' register a package for 'http://www.ibm.com/patternAnnotation/2010'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-02-05 05:17:14.613
+!MESSAGE Both 'com.ibm.etools.mft.gef.emf' and 'org.eclipse.emf.ecore' register a package for 'http://www.eclipse.org/emf/2002/Ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-02-05 05:17:14.618
+!MESSAGE Both 'com.ibm.etools.javaee.core' and 'com.ibm.etools.mft.service.model' register an extension parser for 'application'
+
+!ENTRY com.ibm.etools.mft.uri 0 0 2025-02-05 05:17:17.777
+!MESSAGE 
+
+!ENTRY org.eclipse.core.resources 2 10035 2025-02-05 05:17:41.467
+!MESSAGE The workspace will exit with unsaved changes in this session.
+!SESSION 2025-02-05 05:20:27.816 -----------------------------------------------
+eclipse.buildId=4.15.0.I20200305-0155
+java.fullversion=8.0.6.36 - pxa6480sr6fp36-20210824_02(SR6 FP36)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20210824_12036 (JIT enabled, AOT enabled)
+OpenJ9   - 7bb9176
+OMR      - 820a5aa
+IBM      - dc8f23e
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -b /home/ace/Generate_Bar/bar-files/http_demo.bar -a feb3
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -data ./workspace/applications/ -b /home/ace/Generate_Bar/bar-files/http_demo.bar -a feb3
+
+!ENTRY org.eclipse.core.resources 2 10035 2025-02-05 05:20:29.516
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-02-05 05:20:29.688
+!MESSAGE Both 'com.ibm.etools.mft.fcb' and 'com.ibm.etools.mft.gef.emf' register a package for 'http://www.ibm.com/wbi/2005/eflow_utility'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-02-05 05:20:29.688
+!MESSAGE Both 'com.ibm.etools.mft.gef.emf' and 'com.ibm.etools.mft.gef.emf' register a package for 'http://www.ibm.com/wbi/2005/eflow_utility'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-02-05 05:20:29.688
+!MESSAGE Both 'com.ibm.etools.mft.fcb' and 'com.ibm.etools.mft.pattern.capture.annotation' register a package for 'http://www.ibm.com/patternAnnotation/2010'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-02-05 05:20:29.690
+!MESSAGE Both 'com.ibm.etools.mft.gef.emf' and 'org.eclipse.emf.ecore' register a package for 'http://www.eclipse.org/emf/2002/Ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-02-05 05:20:29.695
+!MESSAGE Both 'com.ibm.etools.javaee.core' and 'com.ibm.etools.mft.service.model' register an extension parser for 'application'
+
+!ENTRY com.ibm.etools.mft.uri 0 0 2025-02-05 05:20:31.985
+!MESSAGE 
+
+!ENTRY org.eclipse.core.resources 2 10035 2025-02-05 05:20:53.462
+!MESSAGE The workspace will exit with unsaved changes in this session.
+!SESSION 2025-02-05 05:33:52.664 -----------------------------------------------
+eclipse.buildId=4.15.0.I20200305-0155
+java.fullversion=8.0.6.36 - pxa6480sr6fp36-20210824_02(SR6 FP36)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20210824_12036 (JIT enabled, AOT enabled)
+OpenJ9   - 7bb9176
+OMR      - 820a5aa
+IBM      - dc8f23e
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -b /home/ace/Generate_Bar/bar-files/http_demo.bar -a feb3
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -data ./workspace/applications/ -b /home/ace/Generate_Bar/bar-files/http_demo.bar -a feb3
+
+!ENTRY org.eclipse.core.resources 2 10035 2025-02-05 05:33:54.413
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-02-05 05:33:54.590
+!MESSAGE Both 'com.ibm.etools.mft.fcb' and 'com.ibm.etools.mft.gef.emf' register a package for 'http://www.ibm.com/wbi/2005/eflow_utility'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-02-05 05:33:54.590
+!MESSAGE Both 'com.ibm.etools.mft.gef.emf' and 'com.ibm.etools.mft.gef.emf' register a package for 'http://www.ibm.com/wbi/2005/eflow_utility'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-02-05 05:33:54.590
+!MESSAGE Both 'com.ibm.etools.mft.fcb' and 'com.ibm.etools.mft.pattern.capture.annotation' register a package for 'http://www.ibm.com/patternAnnotation/2010'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-02-05 05:33:54.592
+!MESSAGE Both 'com.ibm.etools.mft.gef.emf' and 'org.eclipse.emf.ecore' register a package for 'http://www.eclipse.org/emf/2002/Ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-02-05 05:33:54.615
+!MESSAGE Both 'com.ibm.etools.javaee.core' and 'com.ibm.etools.mft.service.model' register an extension parser for 'application'
+
+!ENTRY com.ibm.etools.mft.uri 0 0 2025-02-05 05:33:57.693
+!MESSAGE 
+
+!ENTRY org.eclipse.core.resources 2 10035 2025-02-05 05:34:20.469
+!MESSAGE The workspace will exit with unsaved changes in this session.
+!SESSION 2025-02-05 05:34:55.338 -----------------------------------------------
+eclipse.buildId=4.15.0.I20200305-0155
+java.fullversion=8.0.6.36 - pxa6480sr6fp36-20210824_02(SR6 FP36)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20210824_12036 (JIT enabled, AOT enabled)
+OpenJ9   - 7bb9176
+OMR      - 820a5aa
+IBM      - dc8f23e
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -b /home/ace/Generate_Bar/bar-files/http_demo.bar -a feb3
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -data ./workspace/applications/ -b /home/ace/Generate_Bar/bar-files/http_demo.bar -a feb3
+
+!ENTRY org.eclipse.core.resources 2 10035 2025-02-05 05:34:57.045
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-02-05 05:34:57.211
+!MESSAGE Both 'com.ibm.etools.mft.fcb' and 'com.ibm.etools.mft.gef.emf' register a package for 'http://www.ibm.com/wbi/2005/eflow_utility'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-02-05 05:34:57.211
+!MESSAGE Both 'com.ibm.etools.mft.gef.emf' and 'com.ibm.etools.mft.gef.emf' register a package for 'http://www.ibm.com/wbi/2005/eflow_utility'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-02-05 05:34:57.212
+!MESSAGE Both 'com.ibm.etools.mft.fcb' and 'com.ibm.etools.mft.pattern.capture.annotation' register a package for 'http://www.ibm.com/patternAnnotation/2010'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-02-05 05:34:57.213
+!MESSAGE Both 'com.ibm.etools.mft.gef.emf' and 'org.eclipse.emf.ecore' register a package for 'http://www.eclipse.org/emf/2002/Ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-02-05 05:34:57.218
+!MESSAGE Both 'com.ibm.etools.javaee.core' and 'com.ibm.etools.mft.service.model' register an extension parser for 'application'
+
+!ENTRY com.ibm.etools.mft.uri 0 0 2025-02-05 05:35:00.601
+!MESSAGE 
+
+!ENTRY org.eclipse.core.resources 2 10035 2025-02-05 05:35:18.937
+!MESSAGE The workspace will exit with unsaved changes in this session.
+!SESSION 2025-02-05 05:38:07.611 -----------------------------------------------
+eclipse.buildId=4.15.0.I20200305-0155
+java.fullversion=8.0.6.36 - pxa6480sr6fp36-20210824_02(SR6 FP36)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20210824_12036 (JIT enabled, AOT enabled)
+OpenJ9   - 7bb9176
+OMR      - 820a5aa
+IBM      - dc8f23e
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -b /home/ace/Generate_Bar/bar-files/http_demo.bar -a feb3
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -data ./workspace/applications/ -b /home/ace/Generate_Bar/bar-files/http_demo.bar -a feb3
+
+!ENTRY org.eclipse.core.resources 2 10035 2025-02-05 05:38:09.440
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-02-05 05:38:09.640
+!MESSAGE Both 'com.ibm.etools.mft.fcb' and 'com.ibm.etools.mft.gef.emf' register a package for 'http://www.ibm.com/wbi/2005/eflow_utility'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-02-05 05:38:09.640
+!MESSAGE Both 'com.ibm.etools.mft.gef.emf' and 'com.ibm.etools.mft.gef.emf' register a package for 'http://www.ibm.com/wbi/2005/eflow_utility'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-02-05 05:38:09.640
+!MESSAGE Both 'com.ibm.etools.mft.fcb' and 'com.ibm.etools.mft.pattern.capture.annotation' register a package for 'http://www.ibm.com/patternAnnotation/2010'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-02-05 05:38:09.642
+!MESSAGE Both 'com.ibm.etools.mft.gef.emf' and 'org.eclipse.emf.ecore' register a package for 'http://www.eclipse.org/emf/2002/Ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-02-05 05:38:09.647
+!MESSAGE Both 'com.ibm.etools.javaee.core' and 'com.ibm.etools.mft.service.model' register an extension parser for 'application'
+
+!ENTRY com.ibm.etools.mft.uri 0 0 2025-02-05 05:38:12.648
+!MESSAGE 
+
+!ENTRY org.eclipse.core.resources 2 10035 2025-02-05 05:38:31.267
+!MESSAGE The workspace will exit with unsaved changes in this session.
+!SESSION 2025-02-05 05:40:18.309 -----------------------------------------------
+eclipse.buildId=4.15.0.I20200305-0155
+java.fullversion=8.0.6.36 - pxa6480sr6fp36-20210824_02(SR6 FP36)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20210824_12036 (JIT enabled, AOT enabled)
+OpenJ9   - 7bb9176
+OMR      - 820a5aa
+IBM      - dc8f23e
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -b /home/ace/Generate_Bar/bar-files/http_demo.bar -a feb3
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -data ./workspace/applications/ -b /home/ace/Generate_Bar/bar-files/http_demo.bar -a feb3
+
+!ENTRY org.eclipse.core.resources 2 10035 2025-02-05 05:40:20.013
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-02-05 05:40:20.197
+!MESSAGE Both 'com.ibm.etools.mft.fcb' and 'com.ibm.etools.mft.gef.emf' register a package for 'http://www.ibm.com/wbi/2005/eflow_utility'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-02-05 05:40:20.197
+!MESSAGE Both 'com.ibm.etools.mft.gef.emf' and 'com.ibm.etools.mft.gef.emf' register a package for 'http://www.ibm.com/wbi/2005/eflow_utility'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-02-05 05:40:20.197
+!MESSAGE Both 'com.ibm.etools.mft.fcb' and 'com.ibm.etools.mft.pattern.capture.annotation' register a package for 'http://www.ibm.com/patternAnnotation/2010'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-02-05 05:40:20.199
+!MESSAGE Both 'com.ibm.etools.mft.gef.emf' and 'org.eclipse.emf.ecore' register a package for 'http://www.eclipse.org/emf/2002/Ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-02-05 05:40:20.203
+!MESSAGE Both 'com.ibm.etools.javaee.core' and 'com.ibm.etools.mft.service.model' register an extension parser for 'application'
+
+!ENTRY com.ibm.etools.mft.uri 0 0 2025-02-05 05:40:23.236
+!MESSAGE 
+
+!ENTRY org.eclipse.core.resources 2 10035 2025-02-05 05:40:40.900
+!MESSAGE The workspace will exit with unsaved changes in this session.
+!SESSION 2025-02-05 05:52:30.173 -----------------------------------------------
+eclipse.buildId=4.15.0.I20200305-0155
+java.fullversion=8.0.6.36 - pxa6480sr6fp36-20210824_02(SR6 FP36)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20210824_12036 (JIT enabled, AOT enabled)
+OpenJ9   - 7bb9176
+OMR      - 820a5aa
+IBM      - dc8f23e
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -b /home/ace/Generate_Bar/bar-files/http_demo.bar -a feb3
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -data ./workspace/applications/ -b /home/ace/Generate_Bar/bar-files/http_demo.bar -a feb3
+
+!ENTRY org.eclipse.core.resources 2 10035 2025-02-05 05:52:31.875
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-02-05 05:52:32.051
+!MESSAGE Both 'com.ibm.etools.mft.fcb' and 'com.ibm.etools.mft.gef.emf' register a package for 'http://www.ibm.com/wbi/2005/eflow_utility'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-02-05 05:52:32.052
+!MESSAGE Both 'com.ibm.etools.mft.gef.emf' and 'com.ibm.etools.mft.gef.emf' register a package for 'http://www.ibm.com/wbi/2005/eflow_utility'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-02-05 05:52:32.052
+!MESSAGE Both 'com.ibm.etools.mft.fcb' and 'com.ibm.etools.mft.pattern.capture.annotation' register a package for 'http://www.ibm.com/patternAnnotation/2010'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-02-05 05:52:32.053
+!MESSAGE Both 'com.ibm.etools.mft.gef.emf' and 'org.eclipse.emf.ecore' register a package for 'http://www.eclipse.org/emf/2002/Ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-02-05 05:52:32.094
+!MESSAGE Both 'com.ibm.etools.javaee.core' and 'com.ibm.etools.mft.service.model' register an extension parser for 'application'
+
+!ENTRY com.ibm.etools.mft.uri 0 0 2025-02-05 05:52:35.224
+!MESSAGE 
+
+!ENTRY org.eclipse.core.resources 2 10035 2025-02-05 05:52:53.778
+!MESSAGE The workspace will exit with unsaved changes in this session.
+!SESSION 2025-02-05 05:54:28.217 -----------------------------------------------
+eclipse.buildId=4.15.0.I20200305-0155
+java.fullversion=8.0.6.36 - pxa6480sr6fp36-20210824_02(SR6 FP36)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20210824_12036 (JIT enabled, AOT enabled)
+OpenJ9   - 7bb9176
+OMR      - 820a5aa
+IBM      - dc8f23e
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -b /home/ace/Generate_Bar/bar-files/http_demo.bar -a feb3
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -data ./workspace/applications/ -b /home/ace/Generate_Bar/bar-files/http_demo.bar -a feb3
+
+!ENTRY org.eclipse.core.resources 2 10035 2025-02-05 05:54:29.902
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-02-05 05:54:30.094
+!MESSAGE Both 'com.ibm.etools.mft.fcb' and 'com.ibm.etools.mft.gef.emf' register a package for 'http://www.ibm.com/wbi/2005/eflow_utility'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-02-05 05:54:30.094
+!MESSAGE Both 'com.ibm.etools.mft.gef.emf' and 'com.ibm.etools.mft.gef.emf' register a package for 'http://www.ibm.com/wbi/2005/eflow_utility'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-02-05 05:54:30.094
+!MESSAGE Both 'com.ibm.etools.mft.fcb' and 'com.ibm.etools.mft.pattern.capture.annotation' register a package for 'http://www.ibm.com/patternAnnotation/2010'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-02-05 05:54:30.096
+!MESSAGE Both 'com.ibm.etools.mft.gef.emf' and 'org.eclipse.emf.ecore' register a package for 'http://www.eclipse.org/emf/2002/Ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-02-05 05:54:30.121
+!MESSAGE Both 'com.ibm.etools.javaee.core' and 'com.ibm.etools.mft.service.model' register an extension parser for 'application'
+
+!ENTRY com.ibm.etools.mft.uri 0 0 2025-02-05 05:54:33.167
+!MESSAGE 
+
+!ENTRY org.eclipse.core.resources 2 10035 2025-02-05 05:54:56.922
+!MESSAGE The workspace will exit with unsaved changes in this session.
+!SESSION 2025-02-05 05:59:58.209 -----------------------------------------------
+eclipse.buildId=4.15.0.I20200305-0155
+java.fullversion=8.0.6.36 - pxa6480sr6fp36-20210824_02(SR6 FP36)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20210824_12036 (JIT enabled, AOT enabled)
+OpenJ9   - 7bb9176
+OMR      - 820a5aa
+IBM      - dc8f23e
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -b /home/ace/Generate_Bar/bar-files/http_demo.bar -a feb3
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -data ./workspace/applications/ -b /home/ace/Generate_Bar/bar-files/http_demo.bar -a feb3
+
+!ENTRY org.eclipse.core.resources 2 10035 2025-02-05 05:59:59.938
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-02-05 06:00:00.130
+!MESSAGE Both 'com.ibm.etools.mft.fcb' and 'com.ibm.etools.mft.gef.emf' register a package for 'http://www.ibm.com/wbi/2005/eflow_utility'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-02-05 06:00:00.130
+!MESSAGE Both 'com.ibm.etools.mft.gef.emf' and 'com.ibm.etools.mft.gef.emf' register a package for 'http://www.ibm.com/wbi/2005/eflow_utility'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-02-05 06:00:00.130
+!MESSAGE Both 'com.ibm.etools.mft.fcb' and 'com.ibm.etools.mft.pattern.capture.annotation' register a package for 'http://www.ibm.com/patternAnnotation/2010'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-02-05 06:00:00.136
+!MESSAGE Both 'com.ibm.etools.mft.gef.emf' and 'org.eclipse.emf.ecore' register a package for 'http://www.eclipse.org/emf/2002/Ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-02-05 06:00:00.141
+!MESSAGE Both 'com.ibm.etools.javaee.core' and 'com.ibm.etools.mft.service.model' register an extension parser for 'application'
+
+!ENTRY com.ibm.etools.mft.uri 0 0 2025-02-05 06:00:03.295
+!MESSAGE 
+
+!ENTRY org.eclipse.core.resources 2 10035 2025-02-05 06:00:27.114
+!MESSAGE The workspace will exit with unsaved changes in this session.
+!SESSION 2025-02-05 06:07:49.096 -----------------------------------------------
+eclipse.buildId=4.15.0.I20200305-0155
+java.fullversion=8.0.6.36 - pxa6480sr6fp36-20210824_02(SR6 FP36)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20210824_12036 (JIT enabled, AOT enabled)
+OpenJ9   - 7bb9176
+OMR      - 820a5aa
+IBM      - dc8f23e
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -b /home/ace/Generate_Bar/bar-files/http_demo.bar -a feb3
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -data ./workspace/applications/ -b /home/ace/Generate_Bar/bar-files/http_demo.bar -a feb3
+
+!ENTRY org.eclipse.core.resources 2 10035 2025-02-05 06:07:50.873
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-02-05 06:07:51.046
+!MESSAGE Both 'com.ibm.etools.mft.fcb' and 'com.ibm.etools.mft.gef.emf' register a package for 'http://www.ibm.com/wbi/2005/eflow_utility'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-02-05 06:07:51.047
+!MESSAGE Both 'com.ibm.etools.mft.gef.emf' and 'com.ibm.etools.mft.gef.emf' register a package for 'http://www.ibm.com/wbi/2005/eflow_utility'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-02-05 06:07:51.047
+!MESSAGE Both 'com.ibm.etools.mft.fcb' and 'com.ibm.etools.mft.pattern.capture.annotation' register a package for 'http://www.ibm.com/patternAnnotation/2010'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-02-05 06:07:51.049
+!MESSAGE Both 'com.ibm.etools.mft.gef.emf' and 'org.eclipse.emf.ecore' register a package for 'http://www.eclipse.org/emf/2002/Ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-02-05 06:07:51.053
+!MESSAGE Both 'com.ibm.etools.javaee.core' and 'com.ibm.etools.mft.service.model' register an extension parser for 'application'
+!SESSION 2025-02-05 06:16:36.769 -----------------------------------------------
+eclipse.buildId=4.15.0.I20200305-0155
+java.fullversion=8.0.6.36 - pxa6480sr6fp36-20210824_02(SR6 FP36)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20210824_12036 (JIT enabled, AOT enabled)
+OpenJ9   - 7bb9176
+OMR      - 820a5aa
+IBM      - dc8f23e
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -b /home/ace/Generate_Bar/bar-files/http_demo.bar -a feb3
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -data ./workspace/applications/ -b /home/ace/Generate_Bar/bar-files/http_demo.bar -a feb3
+
+!ENTRY org.eclipse.core.resources 2 10035 2025-02-05 06:16:38.461
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-02-05 06:16:38.664
+!MESSAGE Both 'com.ibm.etools.mft.fcb' and 'com.ibm.etools.mft.gef.emf' register a package for 'http://www.ibm.com/wbi/2005/eflow_utility'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-02-05 06:16:38.665
+!MESSAGE Both 'com.ibm.etools.mft.gef.emf' and 'com.ibm.etools.mft.gef.emf' register a package for 'http://www.ibm.com/wbi/2005/eflow_utility'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-02-05 06:16:38.665
+!MESSAGE Both 'com.ibm.etools.mft.fcb' and 'com.ibm.etools.mft.pattern.capture.annotation' register a package for 'http://www.ibm.com/patternAnnotation/2010'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-02-05 06:16:38.666
+!MESSAGE Both 'com.ibm.etools.mft.gef.emf' and 'org.eclipse.emf.ecore' register a package for 'http://www.eclipse.org/emf/2002/Ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-02-05 06:16:38.672
+!MESSAGE Both 'com.ibm.etools.javaee.core' and 'com.ibm.etools.mft.service.model' register an extension parser for 'application'
+
+!ENTRY com.ibm.etools.mft.uri 0 0 2025-02-05 06:16:41.635
+!MESSAGE 
+
+!ENTRY org.eclipse.core.resources 2 10035 2025-02-05 06:17:02.395
+!MESSAGE The workspace will exit with unsaved changes in this session.
+!SESSION 2025-02-05 06:20:58.905 -----------------------------------------------
+eclipse.buildId=4.15.0.I20200305-0155
+java.fullversion=8.0.6.36 - pxa6480sr6fp36-20210824_02(SR6 FP36)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20210824_12036 (JIT enabled, AOT enabled)
+OpenJ9   - 7bb9176
+OMR      - 820a5aa
+IBM      - dc8f23e
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -b /home/ace/Generate_Bar/bar-files/http_demo.bar -a feb3
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -data ./workspace/applications/ -b /home/ace/Generate_Bar/bar-files/http_demo.bar -a feb3
+
+!ENTRY org.eclipse.core.resources 2 10035 2025-02-05 06:21:00.637
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-02-05 06:21:00.820
+!MESSAGE Both 'com.ibm.etools.mft.fcb' and 'com.ibm.etools.mft.gef.emf' register a package for 'http://www.ibm.com/wbi/2005/eflow_utility'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-02-05 06:21:00.820
+!MESSAGE Both 'com.ibm.etools.mft.gef.emf' and 'com.ibm.etools.mft.gef.emf' register a package for 'http://www.ibm.com/wbi/2005/eflow_utility'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-02-05 06:21:00.820
+!MESSAGE Both 'com.ibm.etools.mft.fcb' and 'com.ibm.etools.mft.pattern.capture.annotation' register a package for 'http://www.ibm.com/patternAnnotation/2010'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-02-05 06:21:00.822
+!MESSAGE Both 'com.ibm.etools.mft.gef.emf' and 'org.eclipse.emf.ecore' register a package for 'http://www.eclipse.org/emf/2002/Ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-02-05 06:21:00.827
+!MESSAGE Both 'com.ibm.etools.javaee.core' and 'com.ibm.etools.mft.service.model' register an extension parser for 'application'
+
+!ENTRY com.ibm.etools.mft.uri 0 0 2025-02-05 06:21:03.819
+!MESSAGE 
+
+!ENTRY org.eclipse.core.resources 2 10035 2025-02-05 06:21:21.566
+!MESSAGE The workspace will exit with unsaved changes in this session.
