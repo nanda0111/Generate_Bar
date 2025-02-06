@@ -1043,3 +1043,1455 @@ Extracting properties from the generated BAR file...
 No existing property file found! Using new properties from the BAR file.
 Applying updated property values to the BAR file...
 Process completed successfully!
+Generating BAR file for feb3...
+[2025/02/04/05:22:17] [INFO] CommandProcessor: parseArgs { Adding file to compile list: feb3/.project } 
+[2025/02/04/05:22:17] [INFO] CommandProcessor: process { mqsicreatebar arguments: } 
+[2025/02/04/05:22:17] [INFO] CommandProcessor: process { [-showlocation, -b, /home/ace/Generate_Bar/bar-files/http_demo.bar, -a, feb3, -wmbtData] } 
+[2025/02/04/05:22:18] [INFO] CommandProcessor: process { Disable auto-build before opening the projects } 
+[2025/02/04/05:22:18] [INFO] CommandProcessor: openWorkspace {  } 
+[2025/02/04/05:22:18] [INFO] CommandProcessor: openWorkspace { List of applications to be processed: feb3 } 
+[2025/02/04/05:22:18] [INFO] CommandProcessor: process { Enable auto-build after the projects are opened } 
+[2025/02/04/05:22:18] [INFO] CommandProcessor: waitForBuildsToComplete { Waiting for build to complete } 
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+[2025/02/04/05:22:33] [INFO] CommandProcessor: process { Check the workspace error } 
+[2025/02/04/05:22:33] [INFO] CommandProcessor: doCompile {  } 
+[2025/02/04/05:22:33] [INFO] AddToBARFileOperation: barGeneratorDelegate { Adding feb3/.project to BAR file } 
+[2025/02/04/05:22:33] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/HTTP_MF.msgflow to BAR file } 
+[2025/02/04/05:22:33] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/META-INF/broker.xml to BAR file } 
+[2025/02/04/05:22:33] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/application.descriptor to BAR file } 
+[2025/02/04/05:22:33] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/application.descriptor to BAR file } 
+[2025/02/04/05:22:33] [INFO] CommandProcessor: saveBar {  } 
+BIP0986I Command completed successfully.
+
+
+
+
+[2025/02/04/05:22:33] [INFO] CommandProcessor: closeWorkspace {  } 
+BAR file successfully created: /home/ace/Generate_Bar/bar-files/http_demo.bar
+Extracting properties from the generated BAR file...
+Updating existing property file with new values...
+Applying updated property values to the BAR file...
+Process completed successfully!
+Error: Application 'feb3' not found in ./workspace/!
+Generating BAR file for feb3...
+[2025/02/04/07:46:22] [INFO] CommandProcessor: parseArgs { Adding file to compile list: feb3/.project } 
+[2025/02/04/07:46:22] [INFO] CommandProcessor: process { mqsicreatebar arguments: } 
+[2025/02/04/07:46:22] [INFO] CommandProcessor: process { [-showlocation, -b, /home/ace/Generate_Bar/bar-files/http_demo.bar, -a, feb3, -wmbtData] } 
+[2025/02/04/07:46:23] [INFO] CommandProcessor: process { Disable auto-build before opening the projects } 
+[2025/02/04/07:46:23] [INFO] CommandProcessor: openWorkspace {  } 
+[2025/02/04/07:46:23] [INFO] CommandProcessor: openWorkspace { List of applications to be processed: feb3 } 
+[2025/02/04/07:46:23] [INFO] OpenWorkspaceRunnable: run { Creating project: feb3 } 
+[2025/02/04/07:46:23] [INFO] OpenWorkspaceRunnable: run { Opening project: feb3 } 
+[2025/02/04/07:46:24] [INFO] CommandProcessor: process { Enable auto-build after the projects are opened } 
+[2025/02/04/07:46:24] [INFO] CommandProcessor: waitForBuildsToComplete { Waiting for build to complete } 
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+[2025/02/04/07:46:40] [INFO] CommandProcessor: process { Check the workspace error } 
+[2025/02/04/07:46:40] [INFO] CommandProcessor: doCompile {  } 
+[2025/02/04/07:46:40] [INFO] AddToBARFileOperation: barGeneratorDelegate { Adding feb3/.project to BAR file } 
+[2025/02/04/07:46:40] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/HTTP_MF.msgflow to BAR file } 
+[2025/02/04/07:46:40] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/META-INF/broker.xml to BAR file } 
+[2025/02/04/07:46:40] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/application.descriptor to BAR file } 
+[2025/02/04/07:46:40] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/application.descriptor to BAR file } 
+[2025/02/04/07:46:40] [INFO] CommandProcessor: saveBar {  } 
+BIP0986I Command completed successfully.
+
+
+
+
+[2025/02/04/07:46:40] [INFO] CommandProcessor: closeWorkspace {  } 
+BAR file successfully created: /home/ace/Generate_Bar/bar-files/http_demo.bar
+Extracting properties from the generated BAR file...
+Updating existing property file with new values...
+Applying updated property values to the BAR file...
+Committing updated property file to GitHub...
+Generating BAR file for feb3...
+[2025/02/04/08:15:10] [INFO] CommandProcessor: parseArgs { Adding file to compile list: feb3/.project } 
+[2025/02/04/08:15:10] [INFO] CommandProcessor: process { mqsicreatebar arguments: } 
+[2025/02/04/08:15:10] [INFO] CommandProcessor: process { [-showlocation, -b, /home/ace/Generate_Bar/bar-files/http_demo.bar, -a, feb3, -wmbtData] } 
+[2025/02/04/08:15:11] [INFO] CommandProcessor: process { Disable auto-build before opening the projects } 
+[2025/02/04/08:15:11] [INFO] CommandProcessor: openWorkspace {  } 
+[2025/02/04/08:15:11] [INFO] CommandProcessor: openWorkspace { List of applications to be processed: feb3 } 
+[2025/02/04/08:15:11] [INFO] OpenWorkspaceRunnable: run { Creating project: feb3 } 
+[2025/02/04/08:15:11] [INFO] OpenWorkspaceRunnable: run { Opening project: feb3 } 
+[2025/02/04/08:15:11] [INFO] CommandProcessor: process { Enable auto-build after the projects are opened } 
+[2025/02/04/08:15:11] [INFO] CommandProcessor: waitForBuildsToComplete { Waiting for build to complete } 
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+[2025/02/04/08:15:28] [INFO] CommandProcessor: process { Check the workspace error } 
+[2025/02/04/08:15:28] [INFO] CommandProcessor: doCompile {  } 
+[2025/02/04/08:15:28] [INFO] AddToBARFileOperation: barGeneratorDelegate { Adding feb3/.project to BAR file } 
+[2025/02/04/08:15:28] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/HTTP_MF.msgflow to BAR file } 
+[2025/02/04/08:15:28] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/META-INF/broker.xml to BAR file } 
+[2025/02/04/08:15:28] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/application.descriptor to BAR file } 
+[2025/02/04/08:15:28] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/application.descriptor to BAR file } 
+[2025/02/04/08:15:28] [INFO] CommandProcessor: saveBar {  } 
+BIP0986I Command completed successfully.
+
+
+
+
+[2025/02/04/08:15:28] [INFO] CommandProcessor: closeWorkspace {  } 
+BAR file successfully created: /home/ace/Generate_Bar/bar-files/http_demo.bar
+Extracting properties from the generated BAR file...
+Updating existing property file with new values...
+Applying updated property values to the BAR file...
+Committing updated property file to GitHub...
+Triggering GitHub Actions workflow: update-properties.yml...
+Process completed successfully!
+Generating BAR file for feb3...
+[2025/02/04/08:23:07] [INFO] CommandProcessor: parseArgs { Adding file to compile list: feb3/.project } 
+[2025/02/04/08:23:07] [INFO] CommandProcessor: process { mqsicreatebar arguments: } 
+[2025/02/04/08:23:07] [INFO] CommandProcessor: process { [-showlocation, -b, /home/ace/Generate_Bar/bar-files/http_demo.bar, -a, feb3, -wmbtData] } 
+[2025/02/04/08:23:08] [INFO] CommandProcessor: process { Disable auto-build before opening the projects } 
+[2025/02/04/08:23:08] [INFO] CommandProcessor: openWorkspace {  } 
+[2025/02/04/08:23:08] [INFO] CommandProcessor: openWorkspace { List of applications to be processed: feb3 } 
+[2025/02/04/08:23:08] [INFO] OpenWorkspaceRunnable: run { Creating project: feb3 } 
+[2025/02/04/08:23:08] [INFO] OpenWorkspaceRunnable: run { Opening project: feb3 } 
+[2025/02/04/08:23:08] [INFO] CommandProcessor: process { Enable auto-build after the projects are opened } 
+[2025/02/04/08:23:08] [INFO] CommandProcessor: waitForBuildsToComplete { Waiting for build to complete } 
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+[2025/02/04/08:23:24] [INFO] CommandProcessor: process { Check the workspace error } 
+[2025/02/04/08:23:24] [INFO] CommandProcessor: doCompile {  } 
+[2025/02/04/08:23:25] [INFO] AddToBARFileOperation: barGeneratorDelegate { Adding feb3/.project to BAR file } 
+[2025/02/04/08:23:25] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/HTTP_MF.msgflow to BAR file } 
+[2025/02/04/08:23:25] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/META-INF/broker.xml to BAR file } 
+[2025/02/04/08:23:25] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/application.descriptor to BAR file } 
+[2025/02/04/08:23:25] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/application.descriptor to BAR file } 
+[2025/02/04/08:23:25] [INFO] CommandProcessor: saveBar {  } 
+BIP0986I Command completed successfully.
+
+
+
+
+[2025/02/04/08:23:25] [INFO] CommandProcessor: closeWorkspace {  } 
+BAR file successfully created: /home/ace/Generate_Bar/bar-files/http_demo.bar
+Extracting properties from the generated BAR file...
+Updating existing property file with new values...
+Applying updated property values to the BAR file...
+Committing updated property file to GitHub...
+Triggering GitHub Actions workflow: update-properties.yml...
+Process completed successfully!
+Generating BAR file for feb3...
+[2025/02/04/08:28:51] [INFO] CommandProcessor: parseArgs { Adding file to compile list: feb3/.project } 
+[2025/02/04/08:28:51] [INFO] CommandProcessor: process { mqsicreatebar arguments: } 
+[2025/02/04/08:28:51] [INFO] CommandProcessor: process { [-showlocation, -b, /home/ace/Generate_Bar/bar-files/http_demo.bar, -a, feb3, -wmbtData] } 
+[2025/02/04/08:28:52] [INFO] CommandProcessor: process { Disable auto-build before opening the projects } 
+[2025/02/04/08:28:52] [INFO] CommandProcessor: openWorkspace {  } 
+[2025/02/04/08:28:52] [INFO] CommandProcessor: openWorkspace { List of applications to be processed: feb3 } 
+[2025/02/04/08:28:52] [INFO] OpenWorkspaceRunnable: run { Creating project: feb3 } 
+[2025/02/04/08:28:52] [INFO] OpenWorkspaceRunnable: run { Opening project: feb3 } 
+[2025/02/04/08:28:52] [INFO] CommandProcessor: process { Enable auto-build after the projects are opened } 
+[2025/02/04/08:28:52] [INFO] CommandProcessor: waitForBuildsToComplete { Waiting for build to complete } 
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+[2025/02/04/08:29:09] [INFO] CommandProcessor: process { Check the workspace error } 
+[2025/02/04/08:29:09] [INFO] CommandProcessor: doCompile {  } 
+[2025/02/04/08:29:09] [INFO] AddToBARFileOperation: barGeneratorDelegate { Adding feb3/.project to BAR file } 
+[2025/02/04/08:29:09] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/HTTP_MF.msgflow to BAR file } 
+[2025/02/04/08:29:09] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/META-INF/broker.xml to BAR file } 
+[2025/02/04/08:29:09] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/application.descriptor to BAR file } 
+[2025/02/04/08:29:09] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/application.descriptor to BAR file } 
+[2025/02/04/08:29:09] [INFO] CommandProcessor: saveBar {  } 
+BIP0986I Command completed successfully.
+
+
+
+
+[2025/02/04/08:29:09] [INFO] CommandProcessor: closeWorkspace {  } 
+BAR file successfully created: /home/ace/Generate_Bar/bar-files/http_demo.bar
+Extracting properties from the generated BAR file...
+Updating existing property file with new values...
+Applying updated property values to the BAR file...
+Committing updated property file to GitHub...
+Triggering GitHub Actions workflow: update-properties.yml...
+Process completed successfully!
+Generating BAR file for feb3...
+[2025/02/04/08:32:20] [INFO] CommandProcessor: parseArgs { Adding file to compile list: feb3/.project } 
+[2025/02/04/08:32:20] [INFO] CommandProcessor: process { mqsicreatebar arguments: } 
+[2025/02/04/08:32:20] [INFO] CommandProcessor: process { [-showlocation, -b, /home/ace/Generate_Bar/bar-files/http_demo.bar, -a, feb3, -wmbtData] } 
+[2025/02/04/08:32:21] [INFO] CommandProcessor: process { Disable auto-build before opening the projects } 
+[2025/02/04/08:32:21] [INFO] CommandProcessor: openWorkspace {  } 
+[2025/02/04/08:32:21] [INFO] CommandProcessor: openWorkspace { List of applications to be processed: feb3 } 
+[2025/02/04/08:32:21] [INFO] OpenWorkspaceRunnable: run { Creating project: feb3 } 
+[2025/02/04/08:32:21] [INFO] OpenWorkspaceRunnable: run { Opening project: feb3 } 
+[2025/02/04/08:32:21] [INFO] CommandProcessor: process { Enable auto-build after the projects are opened } 
+[2025/02/04/08:32:21] [INFO] CommandProcessor: waitForBuildsToComplete { Waiting for build to complete } 
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+[2025/02/04/08:32:38] [INFO] CommandProcessor: process { Check the workspace error } 
+[2025/02/04/08:32:38] [INFO] CommandProcessor: doCompile {  } 
+[2025/02/04/08:32:38] [INFO] AddToBARFileOperation: barGeneratorDelegate { Adding feb3/.project to BAR file } 
+[2025/02/04/08:32:38] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/HTTP_MF.msgflow to BAR file } 
+[2025/02/04/08:32:39] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/META-INF/broker.xml to BAR file } 
+[2025/02/04/08:32:39] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/application.descriptor to BAR file } 
+[2025/02/04/08:32:39] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/application.descriptor to BAR file } 
+[2025/02/04/08:32:39] [INFO] CommandProcessor: saveBar {  } 
+BIP0986I Command completed successfully.
+
+
+
+
+[2025/02/04/08:32:39] [INFO] CommandProcessor: closeWorkspace {  } 
+BAR file successfully created: /home/ace/Generate_Bar/bar-files/http_demo.bar
+Extracting properties from the generated BAR file...
+Updating existing property file with new values...
+Applying updated property values to the BAR file...
+Committing updated property file to GitHub...
+Triggering GitHub Actions workflow: update-properties.yml...
+Process completed successfully!
+Generating BAR file for feb3...
+[2025/02/04/23:33:23] [INFO] CommandProcessor: parseArgs { Adding file to compile list: feb3/.project } 
+[2025/02/04/23:33:23] [INFO] CommandProcessor: process { mqsicreatebar arguments: } 
+[2025/02/04/23:33:23] [INFO] CommandProcessor: process { [-showlocation, -b, /home/ace/Generate_Bar/bar-files/http_demo.bar, -a, feb3, -wmbtData] } 
+[2025/02/04/23:33:24] [INFO] CommandProcessor: process { Disable auto-build before opening the projects } 
+[2025/02/04/23:33:24] [INFO] CommandProcessor: openWorkspace {  } 
+[2025/02/04/23:33:24] [INFO] CommandProcessor: openWorkspace { List of applications to be processed: feb3 } 
+[2025/02/04/23:33:24] [INFO] OpenWorkspaceRunnable: run { Creating project: feb3 } 
+[2025/02/04/23:33:24] [INFO] OpenWorkspaceRunnable: run { Opening project: feb3 } 
+[2025/02/04/23:33:24] [INFO] CommandProcessor: process { Enable auto-build after the projects are opened } 
+[2025/02/04/23:33:24] [INFO] CommandProcessor: waitForBuildsToComplete { Waiting for build to complete } 
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+[2025/02/04/23:33:41] [INFO] CommandProcessor: process { Check the workspace error } 
+[2025/02/04/23:33:41] [INFO] CommandProcessor: doCompile {  } 
+[2025/02/04/23:33:41] [INFO] AddToBARFileOperation: barGeneratorDelegate { Adding feb3/.project to BAR file } 
+[2025/02/04/23:33:41] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/HTTP_MF.msgflow to BAR file } 
+[2025/02/04/23:33:41] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/META-INF/broker.xml to BAR file } 
+[2025/02/04/23:33:41] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/application.descriptor to BAR file } 
+[2025/02/04/23:33:41] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/application.descriptor to BAR file } 
+[2025/02/04/23:33:41] [INFO] CommandProcessor: saveBar {  } 
+BIP0986I Command completed successfully.
+
+
+
+
+[2025/02/04/23:33:41] [INFO] CommandProcessor: closeWorkspace {  } 
+BAR file successfully created: /home/ace/Generate_Bar/bar-files/http_demo.bar
+Extracting properties from the generated BAR file...
+Updating existing property file with new values...
+Applying updated property values to the BAR file...
+Committing updated property file to GitHub...
+Triggering GitHub Actions workflow: update-properties.yml...
+Process completed successfully!
+Generating BAR file for feb3...
+[2025/02/04/23:37:52] [INFO] CommandProcessor: parseArgs { Adding file to compile list: feb3/.project } 
+[2025/02/04/23:37:52] [INFO] CommandProcessor: process { mqsicreatebar arguments: } 
+[2025/02/04/23:37:52] [INFO] CommandProcessor: process { [-showlocation, -b, /home/ace/Generate_Bar/bar-files/http_demo.bar, -a, feb3, -wmbtData] } 
+[2025/02/04/23:37:53] [INFO] CommandProcessor: process { Disable auto-build before opening the projects } 
+[2025/02/04/23:37:53] [INFO] CommandProcessor: openWorkspace {  } 
+[2025/02/04/23:37:53] [INFO] CommandProcessor: openWorkspace { List of applications to be processed: feb3 } 
+[2025/02/04/23:37:53] [INFO] OpenWorkspaceRunnable: run { Creating project: feb3 } 
+[2025/02/04/23:37:53] [INFO] OpenWorkspaceRunnable: run { Opening project: feb3 } 
+[2025/02/04/23:37:53] [INFO] CommandProcessor: process { Enable auto-build after the projects are opened } 
+[2025/02/04/23:37:53] [INFO] CommandProcessor: waitForBuildsToComplete { Waiting for build to complete } 
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+[2025/02/04/23:38:08] [INFO] CommandProcessor: process { Check the workspace error } 
+[2025/02/04/23:38:08] [INFO] CommandProcessor: doCompile {  } 
+[2025/02/04/23:38:08] [INFO] AddToBARFileOperation: barGeneratorDelegate { Adding feb3/.project to BAR file } 
+[2025/02/04/23:38:08] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/HTTP_MF.msgflow to BAR file } 
+[2025/02/04/23:38:09] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/META-INF/broker.xml to BAR file } 
+[2025/02/04/23:38:09] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/application.descriptor to BAR file } 
+[2025/02/04/23:38:09] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/application.descriptor to BAR file } 
+[2025/02/04/23:38:09] [INFO] CommandProcessor: saveBar {  } 
+BIP0986I Command completed successfully.
+
+
+
+
+[2025/02/04/23:38:09] [INFO] CommandProcessor: closeWorkspace {  } 
+BAR file successfully created: /home/ace/Generate_Bar/bar-files/http_demo.bar
+Extracting properties from the generated BAR file...
+Updating existing property file with new values...
+Applying updated property values to the BAR file...
+Committing updated property file to GitHub...
+Triggering GitHub Actions workflow: update-properties.yml...
+Process completed successfully!
+Generating BAR file for feb3...
+[2025/02/04/23:45:13] [INFO] CommandProcessor: parseArgs { Adding file to compile list: feb3/.project } 
+[2025/02/04/23:45:13] [INFO] CommandProcessor: process { mqsicreatebar arguments: } 
+[2025/02/04/23:45:13] [INFO] CommandProcessor: process { [-showlocation, -b, /home/ace/Generate_Bar/bar-files/http_demo.bar, -a, feb3, -wmbtData] } 
+[2025/02/04/23:45:14] [INFO] CommandProcessor: process { Disable auto-build before opening the projects } 
+[2025/02/04/23:45:14] [INFO] CommandProcessor: openWorkspace {  } 
+[2025/02/04/23:45:14] [INFO] CommandProcessor: openWorkspace { List of applications to be processed: feb3 } 
+[2025/02/04/23:45:14] [INFO] OpenWorkspaceRunnable: run { Creating project: feb3 } 
+[2025/02/04/23:45:14] [INFO] OpenWorkspaceRunnable: run { Opening project: feb3 } 
+[2025/02/04/23:45:15] [INFO] CommandProcessor: process { Enable auto-build after the projects are opened } 
+[2025/02/04/23:45:15] [INFO] CommandProcessor: waitForBuildsToComplete { Waiting for build to complete } 
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+[2025/02/04/23:45:32] [INFO] CommandProcessor: process { Check the workspace error } 
+[2025/02/04/23:45:32] [INFO] CommandProcessor: doCompile {  } 
+[2025/02/04/23:45:32] [INFO] AddToBARFileOperation: barGeneratorDelegate { Adding feb3/.project to BAR file } 
+[2025/02/04/23:45:32] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/HTTP_MF.msgflow to BAR file } 
+[2025/02/04/23:45:32] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/META-INF/broker.xml to BAR file } 
+[2025/02/04/23:45:32] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/application.descriptor to BAR file } 
+[2025/02/04/23:45:32] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/application.descriptor to BAR file } 
+[2025/02/04/23:45:32] [INFO] CommandProcessor: saveBar {  } 
+BIP0986I Command completed successfully.
+
+
+
+
+[2025/02/04/23:45:32] [INFO] CommandProcessor: closeWorkspace {  } 
+BAR file successfully created: /home/ace/Generate_Bar/bar-files/http_demo.bar
+Extracting properties from the generated BAR file...
+No existing property file found! Using new properties from the BAR file.
+Applying updated property values to the BAR file...
+Committing updated property file to GitHub...
+Triggering GitHub Actions workflow: update-properties.yml...
+Process completed successfully!
+Generating BAR file for feb3...
+[2025/02/04/23:52:50] [INFO] CommandProcessor: parseArgs { Adding file to compile list: feb3/.project } 
+[2025/02/04/23:52:50] [INFO] CommandProcessor: process { mqsicreatebar arguments: } 
+[2025/02/04/23:52:50] [INFO] CommandProcessor: process { [-showlocation, -b, /home/ace/Generate_Bar/bar-files/http_demo.bar, -a, feb3, -wmbtData] } 
+[2025/02/04/23:52:51] [INFO] CommandProcessor: process { Disable auto-build before opening the projects } 
+[2025/02/04/23:52:51] [INFO] CommandProcessor: openWorkspace {  } 
+[2025/02/04/23:52:51] [INFO] CommandProcessor: openWorkspace { List of applications to be processed: feb3 } 
+[2025/02/04/23:52:51] [INFO] OpenWorkspaceRunnable: run { Creating project: feb3 } 
+[2025/02/04/23:52:51] [INFO] OpenWorkspaceRunnable: run { Opening project: feb3 } 
+[2025/02/04/23:52:51] [INFO] CommandProcessor: process { Enable auto-build after the projects are opened } 
+[2025/02/04/23:52:51] [INFO] CommandProcessor: waitForBuildsToComplete { Waiting for build to complete } 
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+[2025/02/04/23:53:08] [INFO] CommandProcessor: process { Check the workspace error } 
+[2025/02/04/23:53:08] [INFO] CommandProcessor: doCompile {  } 
+[2025/02/04/23:53:08] [INFO] AddToBARFileOperation: barGeneratorDelegate { Adding feb3/.project to BAR file } 
+[2025/02/04/23:53:08] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/HTTP_MF.msgflow to BAR file } 
+[2025/02/04/23:53:08] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/META-INF/broker.xml to BAR file } 
+[2025/02/04/23:53:08] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/application.descriptor to BAR file } 
+[2025/02/04/23:53:08] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/application.descriptor to BAR file } 
+[2025/02/04/23:53:08] [INFO] CommandProcessor: saveBar {  } 
+BIP0986I Command completed successfully.
+
+
+
+
+[2025/02/04/23:53:08] [INFO] CommandProcessor: closeWorkspace {  } 
+BAR file successfully created: /home/ace/Generate_Bar/bar-files/http_demo.bar
+Extracting properties from the generated BAR file...
+No existing property file found! Using new properties from the BAR file.
+Applying updated property values to the BAR file...
+Committing updated property file to GitHub...
+Process completed successfully!
+Generating BAR file for feb3...
+[2025/02/05/00:11:45] [INFO] CommandProcessor: parseArgs { Adding file to compile list: feb3/.project } 
+[2025/02/05/00:11:45] [INFO] CommandProcessor: process { mqsicreatebar arguments: } 
+[2025/02/05/00:11:45] [INFO] CommandProcessor: process { [-showlocation, -b, /home/ace/Generate_Bar/bar-files/http_demo.bar, -a, feb3, -wmbtData] } 
+[2025/02/05/00:11:46] [INFO] CommandProcessor: process { Disable auto-build before opening the projects } 
+[2025/02/05/00:11:46] [INFO] CommandProcessor: openWorkspace {  } 
+[2025/02/05/00:11:46] [INFO] CommandProcessor: openWorkspace { List of applications to be processed: feb3 } 
+[2025/02/05/00:11:46] [INFO] CommandProcessor: process { Enable auto-build after the projects are opened } 
+[2025/02/05/00:11:46] [INFO] CommandProcessor: waitForBuildsToComplete { Waiting for build to complete } 
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+[2025/02/05/00:12:00] [INFO] CommandProcessor: process { Check the workspace error } 
+[2025/02/05/00:12:00] [INFO] CommandProcessor: doCompile {  } 
+[2025/02/05/00:12:00] [INFO] AddToBARFileOperation: barGeneratorDelegate { Adding feb3/.project to BAR file } 
+[2025/02/05/00:12:00] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/HTTP_MF.msgflow to BAR file } 
+[2025/02/05/00:12:01] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/META-INF/broker.xml to BAR file } 
+[2025/02/05/00:12:01] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/application.descriptor to BAR file } 
+[2025/02/05/00:12:01] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/application.descriptor to BAR file } 
+[2025/02/05/00:12:01] [INFO] CommandProcessor: saveBar {  } 
+BIP0986I Command completed successfully.
+
+
+
+
+[2025/02/05/00:12:01] [INFO] CommandProcessor: closeWorkspace {  } 
+BAR file successfully created: /home/ace/Generate_Bar/bar-files/http_demo.bar
+Extracting properties from the generated BAR file...
+Updating existing property file with new values...
+Applying updated property values to the BAR file...
+Process completed successfully!
+Generating BAR file for feb3...
+[2025/02/05/00:12:29] [INFO] CommandProcessor: parseArgs { Adding file to compile list: feb3/.project } 
+[2025/02/05/00:12:29] [INFO] CommandProcessor: process { mqsicreatebar arguments: } 
+[2025/02/05/00:12:29] [INFO] CommandProcessor: process { [-showlocation, -b, /home/ace/Generate_Bar/bar-files/http_demo.bar, -a, feb3, -wmbtData] } 
+[2025/02/05/00:12:30] [INFO] CommandProcessor: process { Disable auto-build before opening the projects } 
+[2025/02/05/00:12:30] [INFO] CommandProcessor: openWorkspace {  } 
+[2025/02/05/00:12:30] [INFO] CommandProcessor: openWorkspace { List of applications to be processed: feb3 } 
+[2025/02/05/00:12:30] [INFO] OpenWorkspaceRunnable: run { Creating project: feb3 } 
+[2025/02/05/00:12:30] [INFO] OpenWorkspaceRunnable: run { Opening project: feb3 } 
+[2025/02/05/00:12:30] [INFO] CommandProcessor: process { Enable auto-build after the projects are opened } 
+[2025/02/05/00:12:30] [INFO] CommandProcessor: waitForBuildsToComplete { Waiting for build to complete } 
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+[2025/02/05/00:12:48] [INFO] CommandProcessor: process { Check the workspace error } 
+[2025/02/05/00:12:48] [INFO] CommandProcessor: doCompile {  } 
+[2025/02/05/00:12:48] [INFO] AddToBARFileOperation: barGeneratorDelegate { Adding feb3/.project to BAR file } 
+[2025/02/05/00:12:48] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/HTTP_MF.msgflow to BAR file } 
+[2025/02/05/00:12:49] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/META-INF/broker.xml to BAR file } 
+[2025/02/05/00:12:49] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/application.descriptor to BAR file } 
+[2025/02/05/00:12:49] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/application.descriptor to BAR file } 
+[2025/02/05/00:12:49] [INFO] CommandProcessor: saveBar {  } 
+BIP0986I Command completed successfully.
+
+
+
+
+[2025/02/05/00:12:49] [INFO] CommandProcessor: closeWorkspace {  } 
+BAR file successfully created: /home/ace/Generate_Bar/bar-files/http_demo.bar
+Extracting properties from the generated BAR file...
+Updating existing property file with new values...
+Applying updated property values to the BAR file...
+Committing updated property file to GitHub...
+Process completed successfully!
+Generating BAR file for feb3...
+[2025/02/05/00:15:07] [INFO] CommandProcessor: parseArgs { Adding file to compile list: feb3/.project } 
+[2025/02/05/00:15:07] [INFO] CommandProcessor: process { mqsicreatebar arguments: } 
+[2025/02/05/00:15:07] [INFO] CommandProcessor: process { [-showlocation, -b, /home/ace/Generate_Bar/bar-files/http_demo.bar, -a, feb3, -wmbtData] } 
+[2025/02/05/00:15:08] [INFO] CommandProcessor: process { Disable auto-build before opening the projects } 
+[2025/02/05/00:15:08] [INFO] CommandProcessor: openWorkspace {  } 
+[2025/02/05/00:15:08] [INFO] CommandProcessor: openWorkspace { List of applications to be processed: feb3 } 
+[2025/02/05/00:15:08] [INFO] OpenWorkspaceRunnable: run { Creating project: feb3 } 
+[2025/02/05/00:15:08] [INFO] OpenWorkspaceRunnable: run { Opening project: feb3 } 
+[2025/02/05/00:15:09] [INFO] CommandProcessor: process { Enable auto-build after the projects are opened } 
+[2025/02/05/00:15:09] [INFO] CommandProcessor: waitForBuildsToComplete { Waiting for build to complete } 
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+[2025/02/05/00:15:26] [INFO] CommandProcessor: process { Check the workspace error } 
+[2025/02/05/00:15:26] [INFO] CommandProcessor: doCompile {  } 
+[2025/02/05/00:15:26] [INFO] AddToBARFileOperation: barGeneratorDelegate { Adding feb3/.project to BAR file } 
+[2025/02/05/00:15:26] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/HTTP_MF.msgflow to BAR file } 
+[2025/02/05/00:15:26] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/META-INF/broker.xml to BAR file } 
+[2025/02/05/00:15:26] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/application.descriptor to BAR file } 
+[2025/02/05/00:15:26] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/application.descriptor to BAR file } 
+[2025/02/05/00:15:26] [INFO] CommandProcessor: saveBar {  } 
+BIP0986I Command completed successfully.
+
+
+
+
+[2025/02/05/00:15:26] [INFO] CommandProcessor: closeWorkspace {  } 
+BAR file successfully created: /home/ace/Generate_Bar/bar-files/http_demo.bar
+Extracting properties from the generated BAR file...
+Updating existing property file with new values...
+Applying updated property values to the BAR file...
+Committing updated property file to GitHub...
+Process completed successfully!
+Generating BAR file for feb3...
+[2025/02/05/00:20:58] [INFO] CommandProcessor: parseArgs { Adding file to compile list: feb3/.project } 
+[2025/02/05/00:20:58] [INFO] CommandProcessor: process { mqsicreatebar arguments: } 
+[2025/02/05/00:20:58] [INFO] CommandProcessor: process { [-showlocation, -b, /home/ace/Generate_Bar/bar-files/http_demo.bar, -a, feb3, -wmbtData] } 
+[2025/02/05/00:20:59] [INFO] CommandProcessor: process { Disable auto-build before opening the projects } 
+[2025/02/05/00:20:59] [INFO] CommandProcessor: openWorkspace {  } 
+[2025/02/05/00:20:59] [INFO] CommandProcessor: openWorkspace { List of applications to be processed: feb3 } 
+[2025/02/05/00:20:59] [INFO] OpenWorkspaceRunnable: run { Creating project: feb3 } 
+[2025/02/05/00:20:59] [INFO] OpenWorkspaceRunnable: run { Opening project: feb3 } 
+[2025/02/05/00:21:00] [INFO] CommandProcessor: process { Enable auto-build after the projects are opened } 
+[2025/02/05/00:21:00] [INFO] CommandProcessor: waitForBuildsToComplete { Waiting for build to complete } 
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+[2025/02/05/00:21:17] [INFO] CommandProcessor: process { Check the workspace error } 
+[2025/02/05/00:21:17] [INFO] CommandProcessor: doCompile {  } 
+[2025/02/05/00:21:17] [INFO] AddToBARFileOperation: barGeneratorDelegate { Adding feb3/.project to BAR file } 
+[2025/02/05/00:21:17] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/HTTP_MF.msgflow to BAR file } 
+[2025/02/05/00:21:17] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/META-INF/broker.xml to BAR file } 
+[2025/02/05/00:21:17] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/application.descriptor to BAR file } 
+[2025/02/05/00:21:17] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/application.descriptor to BAR file } 
+[2025/02/05/00:21:17] [INFO] CommandProcessor: saveBar {  } 
+BIP0986I Command completed successfully.
+
+
+
+
+[2025/02/05/00:21:17] [INFO] CommandProcessor: closeWorkspace {  } 
+BAR file successfully created: /home/ace/Generate_Bar/bar-files/http_demo.bar
+Extracting properties from the generated BAR file...
+Updating existing property file with new values...
+Applying updated property values to the BAR file...
+Committing updated property file to GitHub...
+Triggering GitHub Actions workflow: update-properties.yml...
+Process completed successfully!
+Generating BAR file for feb3...
+[2025/02/05/00:45:27] [INFO] CommandProcessor: parseArgs { Adding file to compile list: feb3/.project } 
+[2025/02/05/00:45:27] [INFO] CommandProcessor: process { mqsicreatebar arguments: } 
+[2025/02/05/00:45:27] [INFO] CommandProcessor: process { [-showlocation, -b, /home/ace/Generate_Bar/bar-files/http_demo.bar, -a, feb3, -wmbtData] } 
+[2025/02/05/00:45:28] [INFO] CommandProcessor: process { Disable auto-build before opening the projects } 
+[2025/02/05/00:45:28] [INFO] CommandProcessor: openWorkspace {  } 
+[2025/02/05/00:45:28] [INFO] CommandProcessor: openWorkspace { List of applications to be processed: feb3 } 
+[2025/02/05/00:45:28] [INFO] OpenWorkspaceRunnable: run { Creating project: feb3 } 
+[2025/02/05/00:45:28] [INFO] OpenWorkspaceRunnable: run { Opening project: feb3 } 
+[2025/02/05/00:45:28] [INFO] CommandProcessor: process { Enable auto-build after the projects are opened } 
+[2025/02/05/00:45:28] [INFO] CommandProcessor: waitForBuildsToComplete { Waiting for build to complete } 
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+[2025/02/05/00:45:45] [INFO] CommandProcessor: process { Check the workspace error } 
+[2025/02/05/00:45:45] [INFO] CommandProcessor: doCompile {  } 
+[2025/02/05/00:45:45] [INFO] AddToBARFileOperation: barGeneratorDelegate { Adding feb3/.project to BAR file } 
+[2025/02/05/00:45:45] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/HTTP_MF.msgflow to BAR file } 
+[2025/02/05/00:45:46] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/META-INF/broker.xml to BAR file } 
+[2025/02/05/00:45:46] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/application.descriptor to BAR file } 
+[2025/02/05/00:45:46] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/application.descriptor to BAR file } 
+[2025/02/05/00:45:46] [INFO] CommandProcessor: saveBar {  } 
+BIP0986I Command completed successfully.
+
+
+
+
+[2025/02/05/00:45:46] [INFO] CommandProcessor: closeWorkspace {  } 
+BAR file successfully created: /home/ace/Generate_Bar/bar-files/http_demo.bar
+Extracting properties from the generated BAR file...
+Updating existing property file with new values...
+Applying updated property values to the BAR file...
+Committing updated property file to GitHub...
+Triggering GitHub Actions workflow: update-properties.yml...
+Process completed successfully!
+Error: Application 'feb3' not found in ./workspace/!
+Error: Application 'feb3' not found in ./workspace/!
+Error: Application 'feb3' not found in ./workspace/application!
+Error: Application 'feb3' not found in ./workspace/applicationfeb3!
+Error: Application 'feb3' not found in ./workspace/application/feb3!
+Error: Application 'feb3' not found in ./workspace/!
+Error: Application 'feb3' not found in ./workspace/application/feb3!
+Error: Application 'feb3' not found in ./workspace/!
+Generating BAR file for feb3...
+[2025/02/05/04:12:20] [INFO] CommandProcessor: parseArgs { Adding file to compile list: feb3/.project } 
+[2025/02/05/04:12:20] [INFO] CommandProcessor: process { mqsicreatebar arguments: } 
+[2025/02/05/04:12:20] [INFO] CommandProcessor: process { [-showlocation, -b, /home/ace/Generate_Bar/bar-files/http_demo.bar, -a, feb3, -wmbtData] } 
+[2025/02/05/04:12:21] [INFO] CommandProcessor: process { Disable auto-build before opening the projects } 
+[2025/02/05/04:12:21] [INFO] CommandProcessor: openWorkspace {  } 
+[2025/02/05/04:12:21] [INFO] CommandProcessor: openWorkspace { List of applications to be processed: feb3 } 
+[2025/02/05/04:12:21] [INFO] OpenWorkspaceRunnable: run { Creating project: feb3 } 
+[2025/02/05/04:12:21] [INFO] OpenWorkspaceRunnable: run { Opening project: feb3 } 
+[2025/02/05/04:12:21] [INFO] CommandProcessor: process { Enable auto-build after the projects are opened } 
+[2025/02/05/04:12:21] [INFO] CommandProcessor: waitForBuildsToComplete { Waiting for build to complete } 
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+[2025/02/05/04:12:39] [INFO] CommandProcessor: process { Check the workspace error } 
+[2025/02/05/04:12:39] [INFO] CommandProcessor: doCompile {  } 
+[2025/02/05/04:12:39] [INFO] AddToBARFileOperation: barGeneratorDelegate { Adding feb3/.project to BAR file } 
+[2025/02/05/04:12:39] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/HTTP_MF.msgflow to BAR file } 
+[2025/02/05/04:12:39] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/META-INF/broker.xml to BAR file } 
+[2025/02/05/04:12:39] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/application.descriptor to BAR file } 
+[2025/02/05/04:12:39] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/application.descriptor to BAR file } 
+[2025/02/05/04:12:39] [INFO] CommandProcessor: saveBar {  } 
+BIP0986I Command completed successfully.
+
+
+
+
+[2025/02/05/04:12:39] [INFO] CommandProcessor: closeWorkspace {  } 
+BAR file successfully created: /home/ace/Generate_Bar/bar-files/http_demo.bar
+Extracting properties from the generated BAR file...
+Updating existing property file with new values...
+Applying updated property values to the BAR file...
+Committing updated property file to GitHub...
+Triggering GitHub Actions workflow: update-properties.yml...
+Process completed successfully!
+Generating BAR file for feb3...
+[2025/02/05/04:29:09] [INFO] CommandProcessor: parseArgs { Adding file to compile list: feb3/.project } 
+[2025/02/05/04:29:09] [INFO] CommandProcessor: process { mqsicreatebar arguments: } 
+[2025/02/05/04:29:09] [INFO] CommandProcessor: process { [-showlocation, -b, /home/ace/Generate_Bar/bar-files/http_demo.bar, -a, feb3, -wmbtData] } 
+[2025/02/05/04:29:10] [INFO] CommandProcessor: process { Disable auto-build before opening the projects } 
+[2025/02/05/04:29:10] [INFO] CommandProcessor: openWorkspace {  } 
+[2025/02/05/04:29:10] [INFO] CommandProcessor: openWorkspace { List of applications to be processed: feb3 } 
+BIP0960E Incorrect "-a", "-l", "-s", "-p", or "-o" argument supplied to mqsicreatebar.
+
+Project directory "feb3" does not exist.
+
+
+[2025/02/05/04:29:10] [INFO] CommandProcessor: projectToAddorOpen { Required project "feb3" does not exist on the file system } 
+Error: BAR file was not created!
+Generating BAR file for feb3...
+[2025/02/05/04:31:07] [INFO] CommandProcessor: parseArgs { Adding file to compile list: feb3/.project } 
+[2025/02/05/04:31:07] [INFO] CommandProcessor: process { mqsicreatebar arguments: } 
+[2025/02/05/04:31:07] [INFO] CommandProcessor: process { [-showlocation, -b, /home/ace/Generate_Bar/bar-files/http_demo.bar, -a, feb3, -wmbtData] } 
+[2025/02/05/04:31:08] [INFO] CommandProcessor: process { Disable auto-build before opening the projects } 
+[2025/02/05/04:31:08] [INFO] CommandProcessor: openWorkspace {  } 
+[2025/02/05/04:31:08] [INFO] CommandProcessor: openWorkspace { List of applications to be processed: feb3 } 
+[2025/02/05/04:31:08] [INFO] OpenWorkspaceRunnable: run { Creating project: feb3 } 
+[2025/02/05/04:31:08] [INFO] OpenWorkspaceRunnable: run { Opening project: feb3 } 
+[2025/02/05/04:31:08] [INFO] CommandProcessor: process { Enable auto-build after the projects are opened } 
+[2025/02/05/04:31:08] [INFO] CommandProcessor: waitForBuildsToComplete { Waiting for build to complete } 
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+[2025/02/05/04:31:25] [INFO] CommandProcessor: process { Check the workspace error } 
+[2025/02/05/04:31:25] [INFO] CommandProcessor: doCompile {  } 
+[2025/02/05/04:31:25] [INFO] AddToBARFileOperation: barGeneratorDelegate { Adding feb3/.project to BAR file } 
+[2025/02/05/04:31:25] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/HTTP_MF.msgflow to BAR file } 
+[2025/02/05/04:31:26] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/META-INF/broker.xml to BAR file } 
+[2025/02/05/04:31:26] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/application.descriptor to BAR file } 
+[2025/02/05/04:31:26] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/application.descriptor to BAR file } 
+[2025/02/05/04:31:26] [INFO] CommandProcessor: saveBar {  } 
+BIP0986I Command completed successfully.
+
+
+
+
+[2025/02/05/04:31:26] [INFO] CommandProcessor: closeWorkspace {  } 
+BAR file successfully created: /home/ace/Generate_Bar/bar-files/http_demo.bar
+Extracting properties from the generated BAR file...
+No existing property file found! Using new properties from the BAR file.
+Applying updated property values to the BAR file...
+Committing updated property file to GitHub...
+Triggering GitHub Actions workflow: update-properties.yml...
+Process completed successfully!
+Generating BAR file for feb3...
+[2025/02/05/04:32:01] [INFO] CommandProcessor: parseArgs { Adding file to compile list: feb3/.project } 
+[2025/02/05/04:32:01] [INFO] CommandProcessor: process { mqsicreatebar arguments: } 
+[2025/02/05/04:32:01] [INFO] CommandProcessor: process { [-showlocation, -b, /home/ace/Generate_Bar/bar-files/http_demo.bar, -a, feb3, -wmbtData] } 
+[2025/02/05/04:32:02] [INFO] CommandProcessor: process { Disable auto-build before opening the projects } 
+[2025/02/05/04:32:02] [INFO] CommandProcessor: openWorkspace {  } 
+[2025/02/05/04:32:02] [INFO] CommandProcessor: openWorkspace { List of applications to be processed: feb3 } 
+[2025/02/05/04:32:02] [INFO] OpenWorkspaceRunnable: run { Creating project: feb3 } 
+[2025/02/05/04:32:03] [INFO] OpenWorkspaceRunnable: run { Opening project: feb3 } 
+[2025/02/05/04:32:03] [INFO] CommandProcessor: process { Enable auto-build after the projects are opened } 
+[2025/02/05/04:32:03] [INFO] CommandProcessor: waitForBuildsToComplete { Waiting for build to complete } 
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+[2025/02/05/04:32:20] [INFO] CommandProcessor: process { Check the workspace error } 
+[2025/02/05/04:32:20] [INFO] CommandProcessor: doCompile {  } 
+[2025/02/05/04:32:20] [INFO] AddToBARFileOperation: barGeneratorDelegate { Adding feb3/.project to BAR file } 
+[2025/02/05/04:32:20] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/HTTP_MF.msgflow to BAR file } 
+[2025/02/05/04:32:20] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/META-INF/broker.xml to BAR file } 
+[2025/02/05/04:32:20] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/application.descriptor to BAR file } 
+[2025/02/05/04:32:20] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/application.descriptor to BAR file } 
+[2025/02/05/04:32:20] [INFO] CommandProcessor: saveBar {  } 
+BIP0986I Command completed successfully.
+
+
+
+
+[2025/02/05/04:32:20] [INFO] CommandProcessor: closeWorkspace {  } 
+BAR file successfully created: /home/ace/Generate_Bar/bar-files/http_demo.bar
+Extracting properties from the generated BAR file...
+No existing property file found! Using new properties from the BAR file.
+Applying updated property values to the BAR file...
+Committing updated property file to GitHub...
+Triggering GitHub Actions workflow: update-properties.yml...
+Process completed successfully!
+Generating BAR file for feb3...
+[2025/02/05/04:36:47] [INFO] CommandProcessor: parseArgs { Adding file to compile list: feb3/.project } 
+[2025/02/05/04:36:47] [INFO] CommandProcessor: process { mqsicreatebar arguments: } 
+[2025/02/05/04:36:47] [INFO] CommandProcessor: process { [-showlocation, -b, /home/ace/Generate_Bar/bar-files/http_demo.bar, -a, feb3, -wmbtData] } 
+[2025/02/05/04:36:48] [INFO] CommandProcessor: process { Disable auto-build before opening the projects } 
+[2025/02/05/04:36:48] [INFO] CommandProcessor: openWorkspace {  } 
+[2025/02/05/04:36:48] [INFO] CommandProcessor: openWorkspace { List of applications to be processed: feb3 } 
+[2025/02/05/04:36:48] [INFO] OpenWorkspaceRunnable: run { Creating project: feb3 } 
+[2025/02/05/04:36:48] [INFO] OpenWorkspaceRunnable: run { Opening project: feb3 } 
+[2025/02/05/04:36:48] [INFO] CommandProcessor: process { Enable auto-build after the projects are opened } 
+[2025/02/05/04:36:48] [INFO] CommandProcessor: waitForBuildsToComplete { Waiting for build to complete } 
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+[2025/02/05/04:37:05] [INFO] CommandProcessor: process { Check the workspace error } 
+[2025/02/05/04:37:05] [INFO] CommandProcessor: doCompile {  } 
+[2025/02/05/04:37:06] [INFO] AddToBARFileOperation: barGeneratorDelegate { Adding feb3/.project to BAR file } 
+[2025/02/05/04:37:06] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/HTTP_MF.msgflow to BAR file } 
+[2025/02/05/04:37:06] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/META-INF/broker.xml to BAR file } 
+[2025/02/05/04:37:06] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/application.descriptor to BAR file } 
+[2025/02/05/04:37:06] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/application.descriptor to BAR file } 
+[2025/02/05/04:37:06] [INFO] CommandProcessor: saveBar {  } 
+BIP0986I Command completed successfully.
+
+
+
+
+[2025/02/05/04:37:06] [INFO] CommandProcessor: closeWorkspace {  } 
+BAR file successfully created: /home/ace/Generate_Bar/bar-files/http_demo.bar
+Extracting properties from the generated BAR file...
+No existing property file found! Using new properties from the BAR file.
+Applying updated property values to the BAR file...
+Committing updated property file to GitHub...
+Triggering GitHub Actions workflow: update-properties.yml...
+Process completed successfully!
+Generating BAR file for feb3...
+[2025/02/05/04:53:31] [INFO] CommandProcessor: parseArgs { Adding file to compile list: feb3/.project } 
+[2025/02/05/04:53:31] [INFO] CommandProcessor: process { mqsicreatebar arguments: } 
+[2025/02/05/04:53:31] [INFO] CommandProcessor: process { [-showlocation, -b, /home/ace/Generate_Bar/bar-files/http_demo.bar, -a, feb3, -wmbtData] } 
+[2025/02/05/04:53:32] [INFO] CommandProcessor: process { Disable auto-build before opening the projects } 
+[2025/02/05/04:53:32] [INFO] CommandProcessor: openWorkspace {  } 
+[2025/02/05/04:53:32] [INFO] CommandProcessor: openWorkspace { List of applications to be processed: feb3 } 
+[2025/02/05/04:53:32] [INFO] OpenWorkspaceRunnable: run { Creating project: feb3 } 
+[2025/02/05/04:53:32] [INFO] OpenWorkspaceRunnable: run { Opening project: feb3 } 
+[2025/02/05/04:53:32] [INFO] CommandProcessor: process { Enable auto-build after the projects are opened } 
+[2025/02/05/04:53:32] [INFO] CommandProcessor: waitForBuildsToComplete { Waiting for build to complete } 
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+[2025/02/05/04:53:49] [INFO] CommandProcessor: process { Check the workspace error } 
+[2025/02/05/04:53:49] [INFO] CommandProcessor: doCompile {  } 
+[2025/02/05/04:53:49] [INFO] AddToBARFileOperation: barGeneratorDelegate { Adding feb3/.project to BAR file } 
+[2025/02/05/04:53:49] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/HTTP_MF.msgflow to BAR file } 
+[2025/02/05/04:53:49] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/META-INF/broker.xml to BAR file } 
+[2025/02/05/04:53:49] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/application.descriptor to BAR file } 
+[2025/02/05/04:53:49] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/application.descriptor to BAR file } 
+[2025/02/05/04:53:50] [INFO] CommandProcessor: saveBar {  } 
+BIP0986I Command completed successfully.
+
+
+
+
+[2025/02/05/04:53:50] [INFO] CommandProcessor: closeWorkspace {  } 
+BAR file successfully created: /home/ace/Generate_Bar/bar-files/http_demo.bar
+Extracting properties from the generated BAR file...
+Updating existing property file with new values...
+Applying updated property values to the BAR file...
+Committing updated property file to GitHub...
+Triggering GitHub Actions workflow: update-properties.yml...
+Process completed successfully!
+Generating BAR file for feb3...
+[2025/02/05/05:17:14] [INFO] CommandProcessor: parseArgs { Adding file to compile list: feb3/.project } 
+[2025/02/05/05:17:14] [INFO] CommandProcessor: process { mqsicreatebar arguments: } 
+[2025/02/05/05:17:14] [INFO] CommandProcessor: process { [-showlocation, -b, /home/ace/Generate_Bar/bar-files/http_demo.bar, -a, feb3, -wmbtData] } 
+[2025/02/05/05:17:15] [INFO] CommandProcessor: process { Disable auto-build before opening the projects } 
+[2025/02/05/05:17:15] [INFO] CommandProcessor: openWorkspace {  } 
+[2025/02/05/05:17:15] [INFO] CommandProcessor: openWorkspace { List of applications to be processed: feb3 } 
+[2025/02/05/05:17:15] [INFO] OpenWorkspaceRunnable: run { Creating project: feb3 } 
+[2025/02/05/05:17:15] [INFO] OpenWorkspaceRunnable: run { Opening project: feb3 } 
+[2025/02/05/05:17:16] [INFO] CommandProcessor: process { Enable auto-build after the projects are opened } 
+[2025/02/05/05:17:16] [INFO] CommandProcessor: waitForBuildsToComplete { Waiting for build to complete } 
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+[2025/02/05/05:17:33] [INFO] CommandProcessor: process { Check the workspace error } 
+[2025/02/05/05:17:33] [INFO] CommandProcessor: doCompile {  } 
+[2025/02/05/05:17:33] [INFO] AddToBARFileOperation: barGeneratorDelegate { Adding feb3/.project to BAR file } 
+[2025/02/05/05:17:33] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/HTTP_MF.msgflow to BAR file } 
+[2025/02/05/05:17:33] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/META-INF/broker.xml to BAR file } 
+[2025/02/05/05:17:33] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/application.descriptor to BAR file } 
+[2025/02/05/05:17:33] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/application.descriptor to BAR file } 
+[2025/02/05/05:17:33] [INFO] CommandProcessor: saveBar {  } 
+BIP0986I Command completed successfully.
+
+
+
+
+[2025/02/05/05:17:33] [INFO] CommandProcessor: closeWorkspace {  } 
+BAR file successfully created: /home/ace/Generate_Bar/bar-files/http_demo.bar
+Extracting properties from the generated BAR file...
+Updating existing property file with new values...
+Applying updated property values to the BAR file...
+Committing updated property file to GitHub...
+Triggering GitHub Actions workflow: update-properties.yml...
+Process completed successfully!
+Generating BAR file for feb3...
+[2025/02/05/05:20:29] [INFO] CommandProcessor: parseArgs { Adding file to compile list: feb3/.project } 
+[2025/02/05/05:20:29] [INFO] CommandProcessor: process { mqsicreatebar arguments: } 
+[2025/02/05/05:20:29] [INFO] CommandProcessor: process { [-showlocation, -b, /home/ace/Generate_Bar/bar-files/http_demo.bar, -a, feb3, -wmbtData] } 
+[2025/02/05/05:20:30] [INFO] CommandProcessor: process { Disable auto-build before opening the projects } 
+[2025/02/05/05:20:30] [INFO] CommandProcessor: openWorkspace {  } 
+[2025/02/05/05:20:30] [INFO] CommandProcessor: openWorkspace { List of applications to be processed: feb3 } 
+[2025/02/05/05:20:30] [INFO] OpenWorkspaceRunnable: run { Creating project: feb3 } 
+[2025/02/05/05:20:30] [INFO] OpenWorkspaceRunnable: run { Opening project: feb3 } 
+[2025/02/05/05:20:31] [INFO] CommandProcessor: process { Enable auto-build after the projects are opened } 
+[2025/02/05/05:20:31] [INFO] CommandProcessor: waitForBuildsToComplete { Waiting for build to complete } 
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+[2025/02/05/05:20:47] [INFO] CommandProcessor: process { Check the workspace error } 
+[2025/02/05/05:20:47] [INFO] CommandProcessor: doCompile {  } 
+[2025/02/05/05:20:47] [INFO] AddToBARFileOperation: barGeneratorDelegate { Adding feb3/.project to BAR file } 
+[2025/02/05/05:20:47] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/HTTP_MF.msgflow to BAR file } 
+[2025/02/05/05:20:47] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/META-INF/broker.xml to BAR file } 
+[2025/02/05/05:20:47] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/application.descriptor to BAR file } 
+[2025/02/05/05:20:47] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/application.descriptor to BAR file } 
+[2025/02/05/05:20:47] [INFO] CommandProcessor: saveBar {  } 
+BIP0986I Command completed successfully.
+
+
+
+
+[2025/02/05/05:20:47] [INFO] CommandProcessor: closeWorkspace {  } 
+BAR file successfully created: /home/ace/Generate_Bar/bar-files/http_demo.bar
+Extracting properties from the generated BAR file...
+Updating existing property file with new values...
+Applying updated property values to the BAR file...
+Committing updated property file to GitHub...
+Triggering GitHub Actions workflow: update-properties.yml...
+Process completed successfully!
+Generating BAR file for feb3...
+[2025/02/05/05:33:54] [INFO] CommandProcessor: parseArgs { Adding file to compile list: feb3/.project } 
+[2025/02/05/05:33:54] [INFO] CommandProcessor: process { mqsicreatebar arguments: } 
+[2025/02/05/05:33:54] [INFO] CommandProcessor: process { [-showlocation, -b, /home/ace/Generate_Bar/bar-files/http_demo.bar, -a, feb3, -wmbtData] } 
+[2025/02/05/05:33:55] [INFO] CommandProcessor: process { Disable auto-build before opening the projects } 
+[2025/02/05/05:33:55] [INFO] CommandProcessor: openWorkspace {  } 
+[2025/02/05/05:33:55] [INFO] CommandProcessor: openWorkspace { List of applications to be processed: feb3 } 
+[2025/02/05/05:33:55] [INFO] OpenWorkspaceRunnable: run { Creating project: feb3 } 
+[2025/02/05/05:33:55] [INFO] OpenWorkspaceRunnable: run { Opening project: feb3 } 
+[2025/02/05/05:33:56] [INFO] CommandProcessor: process { Enable auto-build after the projects are opened } 
+[2025/02/05/05:33:56] [INFO] CommandProcessor: waitForBuildsToComplete { Waiting for build to complete } 
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+[2025/02/05/05:34:12] [INFO] CommandProcessor: process { Check the workspace error } 
+[2025/02/05/05:34:12] [INFO] CommandProcessor: doCompile {  } 
+[2025/02/05/05:34:12] [INFO] AddToBARFileOperation: barGeneratorDelegate { Adding feb3/.project to BAR file } 
+[2025/02/05/05:34:12] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/HTTP_MF.msgflow to BAR file } 
+[2025/02/05/05:34:12] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/META-INF/broker.xml to BAR file } 
+[2025/02/05/05:34:12] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/application.descriptor to BAR file } 
+[2025/02/05/05:34:12] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/application.descriptor to BAR file } 
+[2025/02/05/05:34:12] [INFO] CommandProcessor: saveBar {  } 
+BIP0986I Command completed successfully.
+
+
+
+
+[2025/02/05/05:34:12] [INFO] CommandProcessor: closeWorkspace {  } 
+BAR file successfully created: /home/ace/Generate_Bar/bar-files/http_demo.bar
+Extracting properties from the generated BAR file...
+Updating existing property file with new values...
+Applying updated property values to the BAR file...
+Committing updated property file to GitHub...
+Triggering GitHub Actions workflow: update-properties.yml...
+Process completed successfully!
+Generating BAR file for feb3...
+[2025/02/05/05:34:57] [INFO] CommandProcessor: parseArgs { Adding file to compile list: feb3/.project } 
+[2025/02/05/05:34:57] [INFO] CommandProcessor: process { mqsicreatebar arguments: } 
+[2025/02/05/05:34:57] [INFO] CommandProcessor: process { [-showlocation, -b, /home/ace/Generate_Bar/bar-files/http_demo.bar, -a, feb3, -wmbtData] } 
+[2025/02/05/05:34:58] [INFO] CommandProcessor: process { Disable auto-build before opening the projects } 
+[2025/02/05/05:34:58] [INFO] CommandProcessor: openWorkspace {  } 
+[2025/02/05/05:34:58] [INFO] CommandProcessor: openWorkspace { List of applications to be processed: feb3 } 
+[2025/02/05/05:34:58] [INFO] OpenWorkspaceRunnable: run { Creating project: feb3 } 
+[2025/02/05/05:34:58] [INFO] OpenWorkspaceRunnable: run { Opening project: feb3 } 
+[2025/02/05/05:34:58] [INFO] CommandProcessor: process { Enable auto-build after the projects are opened } 
+[2025/02/05/05:34:58] [INFO] CommandProcessor: waitForBuildsToComplete { Waiting for build to complete } 
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+[2025/02/05/05:35:15] [INFO] CommandProcessor: process { Check the workspace error } 
+[2025/02/05/05:35:15] [INFO] CommandProcessor: doCompile {  } 
+[2025/02/05/05:35:15] [INFO] AddToBARFileOperation: barGeneratorDelegate { Adding feb3/.project to BAR file } 
+[2025/02/05/05:35:15] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/HTTP_MF.msgflow to BAR file } 
+[2025/02/05/05:35:16] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/META-INF/broker.xml to BAR file } 
+[2025/02/05/05:35:16] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/application.descriptor to BAR file } 
+[2025/02/05/05:35:16] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/application.descriptor to BAR file } 
+[2025/02/05/05:35:16] [INFO] CommandProcessor: saveBar {  } 
+BIP0986I Command completed successfully.
+
+
+
+
+[2025/02/05/05:35:16] [INFO] CommandProcessor: closeWorkspace {  } 
+BAR file successfully created: /home/ace/Generate_Bar/bar-files/http_demo.bar
+Extracting properties from the generated BAR file...
+Updating existing property file with new values...
+Applying updated property values to the BAR file...
+Committing updated property file to GitHub...
+Triggering GitHub Actions workflow: update-properties.yml...
+Process completed successfully!
+Generating BAR file for feb3...
+[2025/02/05/05:38:09] [INFO] CommandProcessor: parseArgs { Adding file to compile list: feb3/.project } 
+[2025/02/05/05:38:09] [INFO] CommandProcessor: process { mqsicreatebar arguments: } 
+[2025/02/05/05:38:09] [INFO] CommandProcessor: process { [-showlocation, -b, /home/ace/Generate_Bar/bar-files/http_demo.bar, -a, feb3, -wmbtData] } 
+[2025/02/05/05:38:10] [INFO] CommandProcessor: process { Disable auto-build before opening the projects } 
+[2025/02/05/05:38:10] [INFO] CommandProcessor: openWorkspace {  } 
+[2025/02/05/05:38:10] [INFO] CommandProcessor: openWorkspace { List of applications to be processed: feb3 } 
+[2025/02/05/05:38:10] [INFO] OpenWorkspaceRunnable: run { Creating project: feb3 } 
+[2025/02/05/05:38:10] [INFO] OpenWorkspaceRunnable: run { Opening project: feb3 } 
+[2025/02/05/05:38:11] [INFO] CommandProcessor: process { Enable auto-build after the projects are opened } 
+[2025/02/05/05:38:11] [INFO] CommandProcessor: waitForBuildsToComplete { Waiting for build to complete } 
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+[2025/02/05/05:38:28] [INFO] CommandProcessor: process { Check the workspace error } 
+[2025/02/05/05:38:28] [INFO] CommandProcessor: doCompile {  } 
+[2025/02/05/05:38:28] [INFO] AddToBARFileOperation: barGeneratorDelegate { Adding feb3/.project to BAR file } 
+[2025/02/05/05:38:28] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/HTTP_MF.msgflow to BAR file } 
+[2025/02/05/05:38:28] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/META-INF/broker.xml to BAR file } 
+[2025/02/05/05:38:28] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/application.descriptor to BAR file } 
+[2025/02/05/05:38:28] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/application.descriptor to BAR file } 
+[2025/02/05/05:38:28] [INFO] CommandProcessor: saveBar {  } 
+BIP0986I Command completed successfully.
+
+
+
+
+[2025/02/05/05:38:28] [INFO] CommandProcessor: closeWorkspace {  } 
+BAR file successfully created: /home/ace/Generate_Bar/bar-files/http_demo.bar
+Extracting properties from the generated BAR file...
+No existing property file found! Using new properties from the BAR file.
+Applying updated property values to the BAR file...
+Committing updated property file to GitHub...
+Triggering GitHub Actions workflow: update-properties.yml...
+Process completed successfully!
+Generating BAR file for feb3...
+[2025/02/05/05:40:20] [INFO] CommandProcessor: parseArgs { Adding file to compile list: feb3/.project } 
+[2025/02/05/05:40:20] [INFO] CommandProcessor: process { mqsicreatebar arguments: } 
+[2025/02/05/05:40:20] [INFO] CommandProcessor: process { [-showlocation, -b, /home/ace/Generate_Bar/bar-files/http_demo.bar, -a, feb3, -wmbtData] } 
+[2025/02/05/05:40:21] [INFO] CommandProcessor: process { Disable auto-build before opening the projects } 
+[2025/02/05/05:40:21] [INFO] CommandProcessor: openWorkspace {  } 
+[2025/02/05/05:40:21] [INFO] CommandProcessor: openWorkspace { List of applications to be processed: feb3 } 
+[2025/02/05/05:40:21] [INFO] OpenWorkspaceRunnable: run { Creating project: feb3 } 
+[2025/02/05/05:40:21] [INFO] OpenWorkspaceRunnable: run { Opening project: feb3 } 
+[2025/02/05/05:40:21] [INFO] CommandProcessor: process { Enable auto-build after the projects are opened } 
+[2025/02/05/05:40:21] [INFO] CommandProcessor: waitForBuildsToComplete { Waiting for build to complete } 
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+[2025/02/05/05:40:37] [INFO] CommandProcessor: process { Check the workspace error } 
+[2025/02/05/05:40:37] [INFO] CommandProcessor: doCompile {  } 
+[2025/02/05/05:40:37] [INFO] AddToBARFileOperation: barGeneratorDelegate { Adding feb3/.project to BAR file } 
+[2025/02/05/05:40:37] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/HTTP_MF.msgflow to BAR file } 
+[2025/02/05/05:40:38] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/META-INF/broker.xml to BAR file } 
+[2025/02/05/05:40:38] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/application.descriptor to BAR file } 
+[2025/02/05/05:40:38] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/application.descriptor to BAR file } 
+[2025/02/05/05:40:38] [INFO] CommandProcessor: saveBar {  } 
+BIP0986I Command completed successfully.
+
+
+
+
+[2025/02/05/05:40:38] [INFO] CommandProcessor: closeWorkspace {  } 
+BAR file successfully created: /home/ace/Generate_Bar/bar-files/http_demo.bar
+Extracting properties from the generated BAR file...
+No existing property file found! Using new properties from the BAR file.
+Applying updated property values to the BAR file...
+Committing updated property file to GitHub...
+Triggering GitHub Actions workflow: update-properties.yml...
+Process completed successfully!
+Generating BAR file for feb3...
+[2025/02/05/05:52:32] [INFO] CommandProcessor: parseArgs { Adding file to compile list: feb3/.project } 
+[2025/02/05/05:52:32] [INFO] CommandProcessor: process { mqsicreatebar arguments: } 
+[2025/02/05/05:52:32] [INFO] CommandProcessor: process { [-showlocation, -b, /home/ace/Generate_Bar/bar-files/http_demo.bar, -a, feb3, -wmbtData] } 
+[2025/02/05/05:52:33] [INFO] CommandProcessor: process { Disable auto-build before opening the projects } 
+[2025/02/05/05:52:33] [INFO] CommandProcessor: openWorkspace {  } 
+[2025/02/05/05:52:33] [INFO] CommandProcessor: openWorkspace { List of applications to be processed: feb3 } 
+[2025/02/05/05:52:33] [INFO] OpenWorkspaceRunnable: run { Creating project: feb3 } 
+[2025/02/05/05:52:33] [INFO] OpenWorkspaceRunnable: run { Opening project: feb3 } 
+[2025/02/05/05:52:33] [INFO] CommandProcessor: process { Enable auto-build after the projects are opened } 
+[2025/02/05/05:52:33] [INFO] CommandProcessor: waitForBuildsToComplete { Waiting for build to complete } 
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+[2025/02/05/05:52:50] [INFO] CommandProcessor: process { Check the workspace error } 
+[2025/02/05/05:52:50] [INFO] CommandProcessor: doCompile {  } 
+[2025/02/05/05:52:50] [INFO] AddToBARFileOperation: barGeneratorDelegate { Adding feb3/.project to BAR file } 
+[2025/02/05/05:52:50] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/HTTP_MF.msgflow to BAR file } 
+[2025/02/05/05:52:50] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/META-INF/broker.xml to BAR file } 
+[2025/02/05/05:52:50] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/application.descriptor to BAR file } 
+[2025/02/05/05:52:50] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/application.descriptor to BAR file } 
+[2025/02/05/05:52:51] [INFO] CommandProcessor: saveBar {  } 
+BIP0986I Command completed successfully.
+
+
+
+
+[2025/02/05/05:52:51] [INFO] CommandProcessor: closeWorkspace {  } 
+BAR file successfully created: /home/ace/Generate_Bar/bar-files/http_demo.bar
+Extracting properties from the generated BAR file...
+Updating existing property file with new values...
+Applying updated property values to the BAR file...
+Committing updated property file to GitHub...
+Triggering GitHub Actions workflow: update-properties.yml...
+Process completed successfully!
+Generating BAR file for feb3...
+[2025/02/05/05:54:30] [INFO] CommandProcessor: parseArgs { Adding file to compile list: feb3/.project } 
+[2025/02/05/05:54:30] [INFO] CommandProcessor: process { mqsicreatebar arguments: } 
+[2025/02/05/05:54:30] [INFO] CommandProcessor: process { [-showlocation, -b, /home/ace/Generate_Bar/bar-files/http_demo.bar, -a, feb3, -wmbtData] } 
+[2025/02/05/05:54:31] [INFO] CommandProcessor: process { Disable auto-build before opening the projects } 
+[2025/02/05/05:54:31] [INFO] CommandProcessor: openWorkspace {  } 
+[2025/02/05/05:54:31] [INFO] CommandProcessor: openWorkspace { List of applications to be processed: feb3 } 
+[2025/02/05/05:54:31] [INFO] OpenWorkspaceRunnable: run { Creating project: feb3 } 
+[2025/02/05/05:54:31] [INFO] OpenWorkspaceRunnable: run { Opening project: feb3 } 
+[2025/02/05/05:54:31] [INFO] CommandProcessor: process { Enable auto-build after the projects are opened } 
+[2025/02/05/05:54:31] [INFO] CommandProcessor: waitForBuildsToComplete { Waiting for build to complete } 
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+[2025/02/05/05:54:48] [INFO] CommandProcessor: process { Check the workspace error } 
+[2025/02/05/05:54:48] [INFO] CommandProcessor: doCompile {  } 
+[2025/02/05/05:54:48] [INFO] AddToBARFileOperation: barGeneratorDelegate { Adding feb3/.project to BAR file } 
+[2025/02/05/05:54:48] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/HTTP_MF.msgflow to BAR file } 
+[2025/02/05/05:54:49] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/META-INF/broker.xml to BAR file } 
+[2025/02/05/05:54:49] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/application.descriptor to BAR file } 
+[2025/02/05/05:54:49] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/application.descriptor to BAR file } 
+[2025/02/05/05:54:49] [INFO] CommandProcessor: saveBar {  } 
+BIP0986I Command completed successfully.
+
+
+
+
+[2025/02/05/05:54:49] [INFO] CommandProcessor: closeWorkspace {  } 
+BAR file successfully created: /home/ace/Generate_Bar/bar-files/http_demo.bar
+Extracting properties from the generated BAR file...
+Updating existing property file with new values...
+Applying updated property values to the BAR file...
+Committing updated property file to GitHub...
+Triggering GitHub Actions workflow: update-properties.yml...
+Process completed successfully!
+Generating BAR file for feb3...
+[2025/02/05/06:00:00] [INFO] CommandProcessor: parseArgs { Adding file to compile list: feb3/.project } 
+[2025/02/05/06:00:00] [INFO] CommandProcessor: process { mqsicreatebar arguments: } 
+[2025/02/05/06:00:00] [INFO] CommandProcessor: process { [-showlocation, -b, /home/ace/Generate_Bar/bar-files/http_demo.bar, -a, feb3, -wmbtData] } 
+[2025/02/05/06:00:01] [INFO] CommandProcessor: process { Disable auto-build before opening the projects } 
+[2025/02/05/06:00:01] [INFO] CommandProcessor: openWorkspace {  } 
+[2025/02/05/06:00:01] [INFO] CommandProcessor: openWorkspace { List of applications to be processed: feb3 } 
+[2025/02/05/06:00:01] [INFO] OpenWorkspaceRunnable: run { Creating project: feb3 } 
+[2025/02/05/06:00:01] [INFO] OpenWorkspaceRunnable: run { Opening project: feb3 } 
+[2025/02/05/06:00:01] [INFO] CommandProcessor: process { Enable auto-build after the projects are opened } 
+[2025/02/05/06:00:01] [INFO] CommandProcessor: waitForBuildsToComplete { Waiting for build to complete } 
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+[2025/02/05/06:00:18] [INFO] CommandProcessor: process { Check the workspace error } 
+[2025/02/05/06:00:18] [INFO] CommandProcessor: doCompile {  } 
+[2025/02/05/06:00:19] [INFO] AddToBARFileOperation: barGeneratorDelegate { Adding feb3/.project to BAR file } 
+[2025/02/05/06:00:19] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/HTTP_MF.msgflow to BAR file } 
+[2025/02/05/06:00:19] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/META-INF/broker.xml to BAR file } 
+[2025/02/05/06:00:19] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/application.descriptor to BAR file } 
+[2025/02/05/06:00:19] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/application.descriptor to BAR file } 
+[2025/02/05/06:00:19] [INFO] CommandProcessor: saveBar {  } 
+BIP0986I Command completed successfully.
+
+
+
+
+[2025/02/05/06:00:19] [INFO] CommandProcessor: closeWorkspace {  } 
+BAR file successfully created: /home/ace/Generate_Bar/bar-files/http_demo.bar
+Extracting properties from the generated BAR file...
+Updating existing property file with new values...
+Applying updated property values to the BAR file...
+Committing updated property file to GitHub...
+Triggering GitHub Actions workflow: update-properties.yml...
+Process completed successfully!
+Generating BAR file for feb3...
+Generating BAR file for feb3...
+[2025/02/05/06:16:38] [INFO] CommandProcessor: parseArgs { Adding file to compile list: feb3/.project } 
+[2025/02/05/06:16:38] [INFO] CommandProcessor: process { mqsicreatebar arguments: } 
+[2025/02/05/06:16:38] [INFO] CommandProcessor: process { [-showlocation, -b, /home/ace/Generate_Bar/bar-files/http_demo.bar, -a, feb3, -wmbtData] } 
+[2025/02/05/06:16:39] [INFO] CommandProcessor: process { Disable auto-build before opening the projects } 
+[2025/02/05/06:16:39] [INFO] CommandProcessor: openWorkspace {  } 
+[2025/02/05/06:16:39] [INFO] CommandProcessor: openWorkspace { List of applications to be processed: feb3 } 
+[2025/02/05/06:16:40] [INFO] OpenWorkspaceRunnable: run { Creating project: feb3 } 
+[2025/02/05/06:16:40] [INFO] OpenWorkspaceRunnable: run { Opening project: feb3 } 
+[2025/02/05/06:16:40] [INFO] CommandProcessor: process { Enable auto-build after the projects are opened } 
+[2025/02/05/06:16:40] [INFO] CommandProcessor: waitForBuildsToComplete { Waiting for build to complete } 
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+[2025/02/05/06:16:56] [INFO] CommandProcessor: process { Check the workspace error } 
+[2025/02/05/06:16:56] [INFO] CommandProcessor: doCompile {  } 
+[2025/02/05/06:16:56] [INFO] AddToBARFileOperation: barGeneratorDelegate { Adding feb3/.project to BAR file } 
+[2025/02/05/06:16:56] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/HTTP_MF.msgflow to BAR file } 
+[2025/02/05/06:16:56] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/META-INF/broker.xml to BAR file } 
+[2025/02/05/06:16:56] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/application.descriptor to BAR file } 
+[2025/02/05/06:16:56] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/application.descriptor to BAR file } 
+[2025/02/05/06:16:56] [INFO] CommandProcessor: saveBar {  } 
+BIP0986I Command completed successfully.
+
+
+
+
+[2025/02/05/06:16:56] [INFO] CommandProcessor: closeWorkspace {  } 
+BAR file successfully created: /home/ace/Generate_Bar/bar-files/http_demo.bar
+Extracting properties from the generated BAR file...
+Updating existing property file with new values...
+Applying updated property values to the BAR file...
+Committing updated property file to GitHub...
+Triggering GitHub Actions workflow: override.properties.yml...
+Process completed successfully!
+Generating BAR file for feb3...
+[2025/02/05/06:21:01] [INFO] CommandProcessor: parseArgs { Adding file to compile list: feb3/.project } 
+[2025/02/05/06:21:01] [INFO] CommandProcessor: process { mqsicreatebar arguments: } 
+[2025/02/05/06:21:01] [INFO] CommandProcessor: process { [-showlocation, -b, /home/ace/Generate_Bar/bar-files/http_demo.bar, -a, feb3, -wmbtData] } 
+[2025/02/05/06:21:02] [INFO] CommandProcessor: process { Disable auto-build before opening the projects } 
+[2025/02/05/06:21:02] [INFO] CommandProcessor: openWorkspace {  } 
+[2025/02/05/06:21:02] [INFO] CommandProcessor: openWorkspace { List of applications to be processed: feb3 } 
+[2025/02/05/06:21:02] [INFO] OpenWorkspaceRunnable: run { Creating project: feb3 } 
+[2025/02/05/06:21:02] [INFO] OpenWorkspaceRunnable: run { Opening project: feb3 } 
+[2025/02/05/06:21:02] [INFO] CommandProcessor: process { Enable auto-build after the projects are opened } 
+[2025/02/05/06:21:02] [INFO] CommandProcessor: waitForBuildsToComplete { Waiting for build to complete } 
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+[2025/02/05/06:21:18] [INFO] CommandProcessor: process { Check the workspace error } 
+[2025/02/05/06:21:18] [INFO] CommandProcessor: doCompile {  } 
+[2025/02/05/06:21:18] [INFO] AddToBARFileOperation: barGeneratorDelegate { Adding feb3/.project to BAR file } 
+[2025/02/05/06:21:18] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/HTTP_MF.msgflow to BAR file } 
+[2025/02/05/06:21:18] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/META-INF/broker.xml to BAR file } 
+[2025/02/05/06:21:18] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/application.descriptor to BAR file } 
+[2025/02/05/06:21:18] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/application.descriptor to BAR file } 
+[2025/02/05/06:21:18] [INFO] CommandProcessor: saveBar {  } 
+BIP0986I Command completed successfully.
+
+
+
+
+[2025/02/05/06:21:18] [INFO] CommandProcessor: closeWorkspace {  } 
+BAR file successfully created: /home/ace/Generate_Bar/bar-files/http_demo.bar
+Extracting properties from the generated BAR file...
+No existing property file found! Using new properties from the BAR file.
+Applying updated property values to the BAR file...
+Committing updated property file to GitHub...
+Triggering GitHub Actions workflow: override.properties.yml...
+Process completed successfully!
+Generating BAR file for feb3...
+[2025/02/05/07:18:57] [INFO] CommandProcessor: parseArgs { Adding file to compile list: feb3/.project } 
+[2025/02/05/07:18:57] [INFO] CommandProcessor: process { mqsicreatebar arguments: } 
+[2025/02/05/07:18:57] [INFO] CommandProcessor: process { [-showlocation, -b, /home/ace/Generate_Bar/bar-files/http_demo.bar, -a, feb3, -wmbtData] } 
+[2025/02/05/07:18:58] [INFO] CommandProcessor: process { Disable auto-build before opening the projects } 
+[2025/02/05/07:18:58] [INFO] CommandProcessor: openWorkspace {  } 
+[2025/02/05/07:18:58] [INFO] CommandProcessor: openWorkspace { List of applications to be processed: feb3 } 
+[2025/02/05/07:18:58] [INFO] OpenWorkspaceRunnable: run { Creating project: feb3 } 
+[2025/02/05/07:18:58] [INFO] OpenWorkspaceRunnable: run { Opening project: feb3 } 
+[2025/02/05/07:18:59] [INFO] CommandProcessor: process { Enable auto-build after the projects are opened } 
+[2025/02/05/07:18:59] [INFO] CommandProcessor: waitForBuildsToComplete { Waiting for build to complete } 
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+[2025/02/05/07:19:15] [INFO] CommandProcessor: process { Check the workspace error } 
+[2025/02/05/07:19:15] [INFO] CommandProcessor: doCompile {  } 
+[2025/02/05/07:19:15] [INFO] AddToBARFileOperation: barGeneratorDelegate { Adding feb3/.project to BAR file } 
+[2025/02/05/07:19:15] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/HTTP_MF.msgflow to BAR file } 
+[2025/02/05/07:19:15] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/META-INF/broker.xml to BAR file } 
+[2025/02/05/07:19:15] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/application.descriptor to BAR file } 
+[2025/02/05/07:19:15] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/application.descriptor to BAR file } 
+[2025/02/05/07:19:15] [INFO] CommandProcessor: saveBar {  } 
+BIP0986I Command completed successfully.
+
+
+
+
+[2025/02/05/07:19:15] [INFO] CommandProcessor: closeWorkspace {  } 
+BAR file successfully created: /home/ace/Generate_Bar/bar-files/http_demo.bar
+Extracting properties from the generated BAR file...
+Updating existing property file with new values...
+Applying updated property values to the BAR file...
+Committing updated property file to GitHub...
+Triggering GitHub Actions workflow: override.properties.yml...
+Process completed successfully!
+Generating BAR file for feb3...
+[2025/02/05/07:27:50] [INFO] CommandProcessor: parseArgs { Adding file to compile list: feb3/.project } 
+[2025/02/05/07:27:50] [INFO] CommandProcessor: process { mqsicreatebar arguments: } 
+[2025/02/05/07:27:50] [INFO] CommandProcessor: process { [-showlocation, -b, /home/ace/Generate_Bar/bar-files/http_demo.bar, -a, feb3, -wmbtData] } 
+[2025/02/05/07:27:51] [INFO] CommandProcessor: process { Disable auto-build before opening the projects } 
+[2025/02/05/07:27:51] [INFO] CommandProcessor: openWorkspace {  } 
+[2025/02/05/07:27:51] [INFO] CommandProcessor: openWorkspace { List of applications to be processed: feb3 } 
+[2025/02/05/07:27:51] [INFO] OpenWorkspaceRunnable: run { Creating project: feb3 } 
+[2025/02/05/07:27:51] [INFO] OpenWorkspaceRunnable: run { Opening project: feb3 } 
+[2025/02/05/07:27:51] [INFO] CommandProcessor: process { Enable auto-build after the projects are opened } 
+[2025/02/05/07:27:51] [INFO] CommandProcessor: waitForBuildsToComplete { Waiting for build to complete } 
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+[2025/02/05/07:28:08] [INFO] CommandProcessor: process { Check the workspace error } 
+[2025/02/05/07:28:08] [INFO] CommandProcessor: doCompile {  } 
+[2025/02/05/07:28:08] [INFO] AddToBARFileOperation: barGeneratorDelegate { Adding feb3/.project to BAR file } 
+[2025/02/05/07:28:08] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/HTTP_MF.msgflow to BAR file } 
+[2025/02/05/07:28:08] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/META-INF/broker.xml to BAR file } 
+[2025/02/05/07:28:08] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/application.descriptor to BAR file } 
+[2025/02/05/07:28:08] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/application.descriptor to BAR file } 
+[2025/02/05/07:28:08] [INFO] CommandProcessor: saveBar {  } 
+BIP0986I Command completed successfully.
+
+
+
+
+[2025/02/05/07:28:08] [INFO] CommandProcessor: closeWorkspace {  } 
+BAR file successfully created: /home/ace/Generate_Bar/bar-files/http_demo.bar
+Extracting properties from the generated BAR file...
+Updating existing property file with new values...
+Applying updated property values to the BAR file...
+Moving final BAR file and updated property file to local storage...
+Committing updated property file to GitHub...
+Triggering GitHub Actions workflow: update-properties.yml...
+Process completed successfully!
+Generating BAR file for feb3...
+[2025/02/05/07:37:37] [INFO] CommandProcessor: parseArgs { Adding file to compile list: feb3/.project } 
+[2025/02/05/07:37:37] [INFO] CommandProcessor: process { mqsicreatebar arguments: } 
+[2025/02/05/07:37:37] [INFO] CommandProcessor: process { [-showlocation, -b, /home/ace/Generate_Bar/bar-files/http_demo.bar, -a, feb3, -wmbtData] } 
+[2025/02/05/07:37:38] [INFO] CommandProcessor: process { Disable auto-build before opening the projects } 
+[2025/02/05/07:37:38] [INFO] CommandProcessor: openWorkspace {  } 
+[2025/02/05/07:37:38] [INFO] CommandProcessor: openWorkspace { List of applications to be processed: feb3 } 
+[2025/02/05/07:37:38] [INFO] OpenWorkspaceRunnable: run { Creating project: feb3 } 
+[2025/02/05/07:37:38] [INFO] OpenWorkspaceRunnable: run { Opening project: feb3 } 
+[2025/02/05/07:37:38] [INFO] CommandProcessor: process { Enable auto-build after the projects are opened } 
+[2025/02/05/07:37:38] [INFO] CommandProcessor: waitForBuildsToComplete { Waiting for build to complete } 
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+[2025/02/05/07:37:56] [INFO] CommandProcessor: process { Check the workspace error } 
+[2025/02/05/07:37:56] [INFO] CommandProcessor: doCompile {  } 
+[2025/02/05/07:37:56] [INFO] AddToBARFileOperation: barGeneratorDelegate { Adding feb3/.project to BAR file } 
+[2025/02/05/07:37:56] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/HTTP_MF.msgflow to BAR file } 
+[2025/02/05/07:37:56] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/META-INF/broker.xml to BAR file } 
+[2025/02/05/07:37:56] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/application.descriptor to BAR file } 
+[2025/02/05/07:37:56] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/application.descriptor to BAR file } 
+[2025/02/05/07:37:56] [INFO] CommandProcessor: saveBar {  } 
+BIP0986I Command completed successfully.
+
+
+
+
+[2025/02/05/07:37:56] [INFO] CommandProcessor: closeWorkspace {  } 
+BAR file successfully created: /home/ace/Generate_Bar/bar-files/http_demo.bar
+Extracting properties from the generated BAR file...
+Updating existing property file with new values...
+Applying updated property values to the BAR file...
+Committing updated property file to GitHub...
+Triggering GitHub Actions workflow: override.properties.yml...
+Process completed successfully!
+Generating BAR file for feb3...
+[2025/02/05/07:39:04] [INFO] CommandProcessor: parseArgs { Adding file to compile list: feb3/.project } 
+[2025/02/05/07:39:04] [INFO] CommandProcessor: process { mqsicreatebar arguments: } 
+[2025/02/05/07:39:04] [INFO] CommandProcessor: process { [-showlocation, -b, /home/ace/Generate_Bar/bar-files/http_demo.bar, -a, feb3, -wmbtData] } 
+[2025/02/05/07:39:05] [INFO] CommandProcessor: process { Disable auto-build before opening the projects } 
+[2025/02/05/07:39:05] [INFO] CommandProcessor: openWorkspace {  } 
+[2025/02/05/07:39:05] [INFO] CommandProcessor: openWorkspace { List of applications to be processed: feb3 } 
+[2025/02/05/07:39:05] [INFO] OpenWorkspaceRunnable: run { Creating project: feb3 } 
+[2025/02/05/07:39:05] [INFO] OpenWorkspaceRunnable: run { Opening project: feb3 } 
+[2025/02/05/07:39:05] [INFO] CommandProcessor: process { Enable auto-build after the projects are opened } 
+[2025/02/05/07:39:05] [INFO] CommandProcessor: waitForBuildsToComplete { Waiting for build to complete } 
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+[2025/02/05/07:39:21] [INFO] CommandProcessor: process { Check the workspace error } 
+[2025/02/05/07:39:21] [INFO] CommandProcessor: doCompile {  } 
+[2025/02/05/07:39:21] [INFO] AddToBARFileOperation: barGeneratorDelegate { Adding feb3/.project to BAR file } 
+[2025/02/05/07:39:21] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/HTTP_MF.msgflow to BAR file } 
+[2025/02/05/07:39:22] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/META-INF/broker.xml to BAR file } 
+[2025/02/05/07:39:22] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/application.descriptor to BAR file } 
+[2025/02/05/07:39:22] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/application.descriptor to BAR file } 
+[2025/02/05/07:39:22] [INFO] CommandProcessor: saveBar {  } 
+BIP0986I Command completed successfully.
+
+
+
+
+[2025/02/05/07:39:22] [INFO] CommandProcessor: closeWorkspace {  } 
+BAR file successfully created: /home/ace/Generate_Bar/bar-files/http_demo.bar
+Extracting properties from the generated BAR file...
+Updating existing property file with new values...
+Applying updated property values to the BAR file...
+Committing updated property file to GitHub...
+Triggering GitHub Actions workflow: override.properties.yml...
+Process completed successfully!
+Generating BAR file for feb3...
+[2025/02/05/07:40:09] [INFO] CommandProcessor: parseArgs { Adding file to compile list: feb3/.project } 
+[2025/02/05/07:40:09] [INFO] CommandProcessor: process { mqsicreatebar arguments: } 
+[2025/02/05/07:40:09] [INFO] CommandProcessor: process { [-showlocation, -b, /home/ace/Generate_Bar/bar-files/http_demo.bar, -a, feb3, -wmbtData] } 
+[2025/02/05/07:40:10] [INFO] CommandProcessor: process { Disable auto-build before opening the projects } 
+[2025/02/05/07:40:10] [INFO] CommandProcessor: openWorkspace {  } 
+[2025/02/05/07:40:10] [INFO] CommandProcessor: openWorkspace { List of applications to be processed: feb3 } 
+[2025/02/05/07:40:10] [INFO] OpenWorkspaceRunnable: run { Creating project: feb3 } 
+[2025/02/05/07:40:10] [INFO] OpenWorkspaceRunnable: run { Opening project: feb3 } 
+[2025/02/05/07:40:10] [INFO] CommandProcessor: process { Enable auto-build after the projects are opened } 
+[2025/02/05/07:40:10] [INFO] CommandProcessor: waitForBuildsToComplete { Waiting for build to complete } 
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+[2025/02/05/07:40:27] [INFO] CommandProcessor: process { Check the workspace error } 
+[2025/02/05/07:40:27] [INFO] CommandProcessor: doCompile {  } 
+[2025/02/05/07:40:27] [INFO] AddToBARFileOperation: barGeneratorDelegate { Adding feb3/.project to BAR file } 
+[2025/02/05/07:40:27] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/HTTP_MF.msgflow to BAR file } 
+[2025/02/05/07:40:27] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/META-INF/broker.xml to BAR file } 
+[2025/02/05/07:40:27] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/application.descriptor to BAR file } 
+[2025/02/05/07:40:27] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/application.descriptor to BAR file } 
+[2025/02/05/07:40:27] [INFO] CommandProcessor: saveBar {  } 
+BIP0986I Command completed successfully.
+
+
+
+
+[2025/02/05/07:40:27] [INFO] CommandProcessor: closeWorkspace {  } 
+BAR file successfully created: /home/ace/Generate_Bar/bar-files/http_demo.bar
+Extracting properties from the generated BAR file...
+Updating existing property file with new values...
+Applying updated property values to the BAR file...
+Committing updated property file to GitHub...
+Triggering GitHub Actions workflow: override.properties.yml...
+Process completed successfully!
+Generating BAR file for feb3...
+[2025/02/05/07:42:38] [INFO] CommandProcessor: parseArgs { Adding file to compile list: feb3/.project } 
+[2025/02/05/07:42:38] [INFO] CommandProcessor: process { mqsicreatebar arguments: } 
+[2025/02/05/07:42:38] [INFO] CommandProcessor: process { [-showlocation, -b, /home/ace/Generate_Bar/bar-files/http_demo.bar, -a, feb3, -wmbtData] } 
+[2025/02/05/07:42:39] [INFO] CommandProcessor: process { Disable auto-build before opening the projects } 
+[2025/02/05/07:42:39] [INFO] CommandProcessor: openWorkspace {  } 
+[2025/02/05/07:42:39] [INFO] CommandProcessor: openWorkspace { List of applications to be processed: feb3 } 
+[2025/02/05/07:42:39] [INFO] OpenWorkspaceRunnable: run { Creating project: feb3 } 
+[2025/02/05/07:42:39] [INFO] OpenWorkspaceRunnable: run { Opening project: feb3 } 
+[2025/02/05/07:42:39] [INFO] CommandProcessor: process { Enable auto-build after the projects are opened } 
+[2025/02/05/07:42:39] [INFO] CommandProcessor: waitForBuildsToComplete { Waiting for build to complete } 
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+[2025/02/05/07:42:54] [INFO] CommandProcessor: process { Check the workspace error } 
+[2025/02/05/07:42:54] [INFO] CommandProcessor: doCompile {  } 
+[2025/02/05/07:42:54] [INFO] AddToBARFileOperation: barGeneratorDelegate { Adding feb3/.project to BAR file } 
+[2025/02/05/07:42:54] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/HTTP_MF.msgflow to BAR file } 
+[2025/02/05/07:42:54] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/META-INF/broker.xml to BAR file } 
+[2025/02/05/07:42:54] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/application.descriptor to BAR file } 
+[2025/02/05/07:42:54] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/application.descriptor to BAR file } 
+[2025/02/05/07:42:54] [INFO] CommandProcessor: saveBar {  } 
+BIP0986I Command completed successfully.
+
+
+
+
+[2025/02/05/07:42:54] [INFO] CommandProcessor: closeWorkspace {  } 
+BAR file successfully created: /home/ace/Generate_Bar/bar-files/http_demo.bar
+Extracting properties from the generated BAR file...
+Updating existing property file with new values...
+Applying updated property values to the BAR file...
+Moving final BAR file and updated property file to local storage...
+Committing updated property file to GitHub...
+Triggering GitHub Actions workflow: update-properties.yml...
+Process completed successfully!
+Generating BAR file for feb3...
+[2025/02/05/08:10:13] [INFO] CommandProcessor: parseArgs { Adding file to compile list: feb3/.project } 
+[2025/02/05/08:10:13] [INFO] CommandProcessor: process { mqsicreatebar arguments: } 
+[2025/02/05/08:10:13] [INFO] CommandProcessor: process { [-showlocation, -b, /home/ace/Generate_Bar/bar-files/http_demo.bar, -a, feb3, -wmbtData] } 
+[2025/02/05/08:10:14] [INFO] CommandProcessor: process { Disable auto-build before opening the projects } 
+[2025/02/05/08:10:14] [INFO] CommandProcessor: openWorkspace {  } 
+[2025/02/05/08:10:14] [INFO] CommandProcessor: openWorkspace { List of applications to be processed: feb3 } 
+[2025/02/05/08:10:14] [INFO] OpenWorkspaceRunnable: run { Creating project: feb3 } 
+[2025/02/05/08:10:14] [INFO] OpenWorkspaceRunnable: run { Opening project: feb3 } 
+[2025/02/05/08:10:14] [INFO] CommandProcessor: process { Enable auto-build after the projects are opened } 
+[2025/02/05/08:10:14] [INFO] CommandProcessor: waitForBuildsToComplete { Waiting for build to complete } 
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+[2025/02/05/08:10:31] [INFO] CommandProcessor: process { Check the workspace error } 
+[2025/02/05/08:10:31] [INFO] CommandProcessor: doCompile {  } 
+[2025/02/05/08:10:31] [INFO] AddToBARFileOperation: barGeneratorDelegate { Adding feb3/.project to BAR file } 
+[2025/02/05/08:10:31] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/HTTP_MF.msgflow to BAR file } 
+[2025/02/05/08:10:32] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/META-INF/broker.xml to BAR file } 
+[2025/02/05/08:10:32] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/application.descriptor to BAR file } 
+[2025/02/05/08:10:32] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/application.descriptor to BAR file } 
+[2025/02/05/08:10:32] [INFO] CommandProcessor: saveBar {  } 
+BIP0986I Command completed successfully.
+
+
+
+
+[2025/02/05/08:10:32] [INFO] CommandProcessor: closeWorkspace {  } 
+BAR file successfully created: /home/ace/Generate_Bar/bar-files/http_demo.bar
+Extracting properties from the generated BAR file...
+Updating existing property file with new values...
+Applying updated property values to the BAR file...
+Moving final BAR file and updated property file to local storage...
+Committing updated property file to GitHub...
+Triggering GitHub Actions workflow: update-properties.yml...
+Process completed successfully!
+Generating BAR file for feb3...
+[2025/02/05/08:11:41] [INFO] CommandProcessor: parseArgs { Adding file to compile list: feb3/.project } 
+[2025/02/05/08:11:41] [INFO] CommandProcessor: process { mqsicreatebar arguments: } 
+[2025/02/05/08:11:41] [INFO] CommandProcessor: process { [-showlocation, -b, /home/ace/Generate_Bar/bar-files/http_demo.bar, -a, feb3, -wmbtData] } 
+[2025/02/05/08:11:42] [INFO] CommandProcessor: process { Disable auto-build before opening the projects } 
+[2025/02/05/08:11:42] [INFO] CommandProcessor: openWorkspace {  } 
+[2025/02/05/08:11:42] [INFO] CommandProcessor: openWorkspace { List of applications to be processed: feb3 } 
+[2025/02/05/08:11:42] [INFO] OpenWorkspaceRunnable: run { Creating project: feb3 } 
+[2025/02/05/08:11:42] [INFO] OpenWorkspaceRunnable: run { Opening project: feb3 } 
+[2025/02/05/08:11:42] [INFO] CommandProcessor: process { Enable auto-build after the projects are opened } 
+[2025/02/05/08:11:42] [INFO] CommandProcessor: waitForBuildsToComplete { Waiting for build to complete } 
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+[2025/02/05/08:11:59] [INFO] CommandProcessor: process { Check the workspace error } 
+[2025/02/05/08:11:59] [INFO] CommandProcessor: doCompile {  } 
+[2025/02/05/08:12:00] [INFO] AddToBARFileOperation: barGeneratorDelegate { Adding feb3/.project to BAR file } 
+[2025/02/05/08:12:00] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/HTTP_MF.msgflow to BAR file } 
+[2025/02/05/08:12:00] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/META-INF/broker.xml to BAR file } 
+[2025/02/05/08:12:00] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/application.descriptor to BAR file } 
+[2025/02/05/08:12:00] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/application.descriptor to BAR file } 
+[2025/02/05/08:12:00] [INFO] CommandProcessor: saveBar {  } 
+BIP0986I Command completed successfully.
+
+
+
+
+[2025/02/05/08:12:00] [INFO] CommandProcessor: closeWorkspace {  } 
+BAR file successfully created: /home/ace/Generate_Bar/bar-files/http_demo.bar
+Extracting properties from the generated BAR file...
+No existing property file found! Using new properties from the BAR file.
+Applying updated property values to the BAR file...
+Moving final BAR file and updated property file to local storage...
+Committing updated property file to GitHub...
+Triggering GitHub Actions workflow: update-properties.yml...
+Process completed successfully!
+Generating BAR file for feb3...
+[2025/02/06/03:57:39] [INFO] CommandProcessor: parseArgs { Adding file to compile list: feb3/.project } 
+[2025/02/06/03:57:39] [INFO] CommandProcessor: process { mqsicreatebar arguments: } 
+[2025/02/06/03:57:39] [INFO] CommandProcessor: process { [-showlocation, -b, /home/ace/Generate_Bar/bar-files/http_demo.bar, -a, feb3, -wmbtData] } 
+[2025/02/06/03:57:40] [INFO] CommandProcessor: process { Disable auto-build before opening the projects } 
+[2025/02/06/03:57:40] [INFO] CommandProcessor: openWorkspace {  } 
+[2025/02/06/03:57:40] [INFO] CommandProcessor: openWorkspace { List of applications to be processed: feb3 } 
+[2025/02/06/03:57:40] [INFO] OpenWorkspaceRunnable: run { Creating project: feb3 } 
+[2025/02/06/03:57:40] [INFO] OpenWorkspaceRunnable: run { Opening project: feb3 } 
+[2025/02/06/03:57:40] [INFO] CommandProcessor: process { Enable auto-build after the projects are opened } 
+[2025/02/06/03:57:40] [INFO] CommandProcessor: waitForBuildsToComplete { Waiting for build to complete } 
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+[2025/02/06/03:57:58] [INFO] CommandProcessor: process { Check the workspace error } 
+[2025/02/06/03:57:58] [INFO] CommandProcessor: doCompile {  } 
+[2025/02/06/03:57:58] [INFO] AddToBARFileOperation: barGeneratorDelegate { Adding feb3/.project to BAR file } 
+[2025/02/06/03:57:58] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/HTTP_MF.msgflow to BAR file } 
+[2025/02/06/03:57:58] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/META-INF/broker.xml to BAR file } 
+[2025/02/06/03:57:58] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/application.descriptor to BAR file } 
+[2025/02/06/03:57:58] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/application.descriptor to BAR file } 
+[2025/02/06/03:57:58] [INFO] CommandProcessor: saveBar {  } 
+BIP0986I Command completed successfully.
+
+
+
+
+[2025/02/06/03:57:58] [INFO] CommandProcessor: closeWorkspace {  } 
+BAR file successfully created: /home/ace/Generate_Bar/bar-files/http_demo.bar
+Extracting properties from the generated BAR file...
+No existing property file found! Using new properties from the BAR file.
+Applying updated property values to the BAR file...
+Moving final BAR file and updated property file to local storage...
+Committing updated property file to GitHub...
+Triggering GitHub Actions workflow: update-properties.yml...
+Process completed successfully!
+Generating BAR file for feb3...
+[2025/02/06/04:02:43] [INFO] CommandProcessor: parseArgs { Adding file to compile list: feb3/.project } 
+[2025/02/06/04:02:43] [INFO] CommandProcessor: process { mqsicreatebar arguments: } 
+[2025/02/06/04:02:43] [INFO] CommandProcessor: process { [-showlocation, -b, /home/ace/Generate_Bar/bar-files/http_demo.bar, -a, feb3, -wmbtData] } 
+[2025/02/06/04:02:44] [INFO] CommandProcessor: process { Disable auto-build before opening the projects } 
+[2025/02/06/04:02:44] [INFO] CommandProcessor: openWorkspace {  } 
+[2025/02/06/04:02:44] [INFO] CommandProcessor: openWorkspace { List of applications to be processed: feb3 } 
+[2025/02/06/04:02:44] [INFO] OpenWorkspaceRunnable: run { Creating project: feb3 } 
+[2025/02/06/04:02:44] [INFO] OpenWorkspaceRunnable: run { Opening project: feb3 } 
+[2025/02/06/04:02:44] [INFO] CommandProcessor: process { Enable auto-build after the projects are opened } 
+[2025/02/06/04:02:44] [INFO] CommandProcessor: waitForBuildsToComplete { Waiting for build to complete } 
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+[2025/02/06/04:03:01] [INFO] CommandProcessor: process { Check the workspace error } 
+[2025/02/06/04:03:01] [INFO] CommandProcessor: doCompile {  } 
+[2025/02/06/04:03:01] [INFO] AddToBARFileOperation: barGeneratorDelegate { Adding feb3/.project to BAR file } 
+[2025/02/06/04:03:01] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/HTTP_MF.msgflow to BAR file } 
+[2025/02/06/04:03:02] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/META-INF/broker.xml to BAR file } 
+[2025/02/06/04:03:02] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/application.descriptor to BAR file } 
+[2025/02/06/04:03:02] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding feb3/application.descriptor to BAR file } 
+[2025/02/06/04:03:02] [INFO] CommandProcessor: saveBar {  } 
+BIP0986I Command completed successfully.
+
+
+
+
+[2025/02/06/04:03:02] [INFO] CommandProcessor: closeWorkspace {  } 
+BAR file successfully created: /home/ace/Generate_Bar/bar-files/http_demo.bar
+Extracting properties from the generated BAR file...
+Updating existing property file with new values...
+Applying updated property values to the BAR file...
+Moving final BAR file and updated property file to local storage...
+Committing updated property file to GitHub...
+Triggering GitHub Actions workflow: update-properties.yml...
+Process completed successfully!
