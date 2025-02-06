@@ -3,14 +3,14 @@ name: Update Properties and Build BAR File
 on:
   push:
     paths:
-      - 'config/override.properties'  # Runs when this file is updated
+      - 'config/override.properties'  # Trigger when properties are updated
   workflow_dispatch:  # Allows manual execution
 
 jobs:
   update-properties-and-build:
     runs-on: ubuntu-latest
     container:
-      image: ibmcom/ace:12.0.10.0  # Use IBM ACE pre-installed Docker image
+      image: ibmcom/ace:12.0.10.0  # Using IBM ACE pre-installed Docker image
 
     steps:
       - name: Checkout Repository
@@ -24,10 +24,21 @@ jobs:
           fi
           echo "override.properties found. Proceeding with update."
 
-      - name: Override Property Values
+      - name: Extract and Update Property Values
         run: |
-          echo "Updating property values..."
-          sed -i "s/old_property=value/new_property=value/" config/override.properties  # Modify as needed
+          echo "Extracting properties from BAR file..."
+          /opt/ibm/ace-12/bin/mqsireadbar -b ./bar-files/http_demo.bar -r > config/bar_generated.properties
+          
+          echo "Updating override.properties with new values..."
+          while IFS= read -r line; do
+            key=$(echo "$line" | cut -d'=' -f1)
+            value=$(echo "$line" | cut -d'=' -f2-)
+            if grep -q "^$key=" config/override.properties; then
+              sed -i "s|^$key=.*|$key=$value|" config/override.properties
+            else
+              echo "$line" >> config/override.properties
+            fi
+          done < config/bar_generated.properties
 
       - name: Commit and Push Updated Properties
         run: |
@@ -46,11 +57,16 @@ jobs:
       - name: Generate BAR File
         run: |
           echo "Building BAR file..."
-          /opt/ibm/ace-12/bin/mqsicreatebar -b "./bar-files/http_demo.bar" -w "./workspace" -a "YourApplicationName" -m add
+          /opt/ibm/ace-12/bin/mqsicreatebar -b "./bar-files/http_demo.bar" -w "./workspace" -a "feb3"
 
-      - name: Debug BAR File
+      - name: Apply Updated Property Overrides to BAR
         run: |
-          echo "Checking if BAR file was generated..."
+          echo "Applying updated property values to the BAR file..."
+          /opt/ibm/ace-12/bin/mqsiapplybaroverride -b "./bar-files/http_demo.bar" -p "config/override.properties" -r
+
+      - name: Verify BAR File
+        run: |
+          echo "Checking if BAR file was successfully generated..."
           ls -lh ./bar-files/
 
       - name: Upload BAR File as Artifact
@@ -62,22 +78,9 @@ jobs:
       - name: Trigger Workflow for Property Updates
         run: |
           echo "Triggering GitHub Actions workflow: update-properties.yml..."
-         # curl -X POST -H "Accept: application/vnd.github.v3+json" \
-         #      -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}"
-         #      https://api.github.com/repos/nanda0111/Generate_Bar/actions/workflows/update-properties.yml/dispatches \
-         #      -d '{"ref":"main"}'
-         # curl -X POST \
-         #      -H "Accept: application/vnd.github.v3+json" \
-         #      -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" \
-         #      -d '{"ref":"main"}' \
-         #  "https://api.github.com/repos/nanda0111/Generate_Bar/actions/workflows/update-properties.yml/dispatches"
-
-
           curl -X POST \
                -H "Accept: application/vnd.github.v3+json" \
                -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" \
-              #-H "Authorization: Bearer $MY_GITHUB_TOKEN" \
                -d '{"ref":"main"}' \
-                "https://api.github.com/repos/nanda0111/Generate_Bar/actions/workflows/update-properties.yml/dispatches"
-
+               "https://api.github.com/repos/nanda0111/Generate_Bar/actions/workflows/update-properties.yml/dispatches"
 
